@@ -125,10 +125,10 @@ Based on the applicant profile with filters set to SAT Math 700, SAT Reading 680
 
 ## Author
 
-**[Your Name]**  
-[Your Program / University]  
-[LinkedIn URL]  
-[Email]
+**May Bui**  
+DePauw University
+mayxbui@gmail.com
++1 (408) 303-8262
 
 ---
 
