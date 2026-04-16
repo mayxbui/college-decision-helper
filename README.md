@@ -53,19 +53,25 @@ Both datasets are sourced from the U.S. Department of Education College Scorecar
 - **Total Undergraduate Enrollment** — range filter for campus size preference
 - **Admission Rate** — minimum threshold filter for realistic applications
 
+
 ### Visualizations
 
 **1. Affordability vs. Admission Likelihood**
+
 Scatter plot positioning each institution by admission rate (x-axis) and net cost of attendance (y-axis). Color and shape encode SAT eligibility. A dynamic reference line marks the user's affordability threshold. The target zone highlights institutions that are both financially accessible and academically realistic.
 
 **2. Tuition Investment vs. Graduate Earnings Outcomes**
+
 Scatter plot comparing annual sticker price against median graduate earnings two years post-enrollment. Color encodes admission rate. A logarithmic trend line reveals that paying more does not proportionally increase earnings — supporting a value-focused application strategy.
 
 **3. Business and Mathematics Programs and Campus Setting by Net Cost**
+
 Dual-axis chart showing the percentage of students enrolled in mathematics (purple circles) and business (blue triangles) programs relative to net cost. Dot size encodes total undergraduate enrollment. Identifies institutions with genuine quantitative academic culture at an affordable price point.
 
 **4. Institution List — Scored and Ranked**
+
 Filtered data table displaying all institutions passing active filters, ranked by a composite Fit Score (0–100). Each row shows fit score, enrollment, annual cost, four-year completion rate, median debt, and graduate earnings. Color encodes fit tier: Best Fit, Target, Reach, or Not Ideal.
+
 
 ### Fit Scoring Model
 
@@ -125,9 +131,12 @@ Based on the applicant profile with filters set to SAT Math 700, SAT Reading 680
 
 ## Author
 
-**May Bui**  
+**May Bui**
+
 DePauw University
+
 mayxbui@gmail.com
+
 +1 (408) 303-8262
 
 ---
