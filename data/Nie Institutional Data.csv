@@ -1,0 +1,1275 @@
+﻿OPEID6,INSTNM,C150_4,ADM_RATE,SATVR25,SATMT25,COSTT4_A,NPT4_PUB,NPT4_PRIV,UGDS,LOCALE,CITY,STABBR,PCIP27,PCIP52,CIP27BACHL,CIP52BACHL
+1052,University of Alabama at Birmingham,0.2403,0.8818,600,610,28145,18749,,11635,12,Birmingham,AL,0.0055,0.1997,1,1
+25034,Amridge University,0.6423,,,,,,,241,12,Montgomery,AL,,0.4333,,2
+1055,University of Alabama in Huntsville,1,0.6857,600,610,27392,18796,,6591,12,Huntsville,AL,0.0156,0.1774,1,1
+1005,Alabama State University,0.6429,0.9755,399,350,23586,20435,,3477,12,Montgomery,AL,0.0064,0.1191,1,1
+1008,Athens State University,0.7337,,,,,,,2446,31,Athens,AL,0.0203,0.3198,1,2
+8310,Auburn University at Montgomery,,0.9157,538,498,21353,13224,,2542,12,Montgomery,AL,0.0124,0.1855,1,1
+13039,South University-Montgomery,0.326,,,,34793,,27807,299,12,Montgomery,AL,,0.0429,,2
+1019,Huntingdon College,,0.6949,533,473,40908,,22566,879,12,Montgomery,AL,0.0301,0.1928,1,1
+1020,Jacksonville State University,0.125,0.7769,500,500,24257,14279,,7036,23,Jacksonville,AL,0.0007,0.146,1,2
+1028,Miles College,,,,,21154,,14271,1155,21,Fairfield,AL,0.0132,0.3487,1,2
+1029,University of Mobile,,0.7789,,,41115,,22382,1307,41,Mobile,AL,0.0045,0.1577,1,2
+1016,University of North Alabama,0.347,0.8731,,,23786,12170,,5811,13,Florence,AL,0.0038,0.2311,1,2
+1033,Oakwood University,,0.4522,,,40176,,25669,1153,12,Huntsville,AL,0.0209,0.1414,1,1
+40673,Selma University,0.541,,,,,,,32,32,Selma,AL,,,,1
+1041,Spring Hill College,,0.7657,,,39936,,20449,782,12,Mobile,AL,,0.3235,1,2
+1044,Stillman College,0.4462,0.6225,,,26107,,15258,706,12,Tuscaloosa,AL,0.0083,0.2231,1,1
+1046,Talladega College,,0.8542,,,25185,,15560,701,32,Talladega,AL,,0.331,1,2
+1047,Troy University,0.7704,0.9604,490,450,23165,16527,,9805,33,Troy,AL,0.0019,0.1945,1,2
+1050,Tuskegee University,0.06,0.4868,,,43454,,35013,2630,32,Tuskegee,AL,0.003,0.0776,1,1
+21706,United States Sports University,,0.6137,,,32606,,24076,228,13,Daphne,AL,,,,
+11462,University of Alaska Anchorage,0.5267,,,,24096,15301,,7212,11,Anchorage,AK,0.0034,0.1177,1,2
+8843,Alaska Bible College,0.521,,,,28903,,17508,24,23,Palmer,AK,,,,
+1081,Arizo State University Campus Immersion,0.4722,0.8989,,,30111,14967,,64674,12,Tempe,AZ,0.0102,0.2456,1,1
+1083,University of Arizo,0.5606,0.8614,580,570,29423,16674,,42537,11,Tucson,AZ,0.0112,0.1507,1,1
+1479,Embry-Riddle Aeroutical University-Prescott,,0.7658,580,560,62798,,40287,3218,13,Prescott,AZ,,0.0476,,1
+1074,Grand Canyon University,,0.7891,518,488,32702,,22472,73371,11,Phoenix,AZ,,0.2124,,2
+1082,Northern Arizo University,,0.8961,,,29933,14158,,22903,13,Flagstaff,AZ,0.0054,0.1769,1,2
+7113,Arizo Christian University,0.6132,0.7062,,,54792,,32839,1165,21,Glendale,AZ,,0.3699,,1
+1109,University of Arkansas for Medical Sciences,,,,,,,,1571,12,Little Rock,AR,,,,
+1087,Arkansas Baptist College,0.7229,,,,23060,,10627,342,12,Little Rock,AR,,0.5313,,1
+1108,University of Arkansas,0.0851,0.743,520,510,27767,18209,,28677,12,Fayetteville,AR,0.0042,0.2951,1,2
+1095,Crowley's Ridge College,,,,,27340,,16315,165,41,Paragould,AR,,0.2222,,1
+1097,Harding University,,0.7052,530,520,39534,,22130,3382,32,Searcy,AR,0.004,0.1593,1,1
+1098,Henderson State University,0.7052,,,,27385,23405,,1456,32,Arkadelphia,AR,0.0066,0.1498,1,1
+1099,Hendrix College,0.4043,0.5565,560,563,55013,,24149,1100,13,Conway,AR,0.0087,0.039,1,1
+1102,Ouachita Baptist University,,0.6752,540,530,47321,,22409,1602,32,Arkadelphia,AR,0.0063,0.1813,1,2
+1103,Philander Smith University,,,,,28136,,14224,751,12,Little Rock,AR,0.0187,0.3271,1,1
+1106,Williams Baptist University,,0.8342,,,33597,,15745,478,42,Walnut Ridge,AR,,0.1742,,1
+1107,Southern Arkansas University Main Campus,,0.7533,450,425,24951,14027,,2708,33,Magnolia,AR,0.0032,0.1496,1,2
+7531,Academy of Art University,0.614,,,,48036,,40613,3587,11,San Francisco,CA,,0.0389,,2
+1116,Art Center College of Design,,0.7454,,,75649,,48661,2017,12,Pasade,CA,,,,
+1117,Azusa Pacific University,,0.8843,515,468,56313,,22212,2759,21,Azusa,CA,0.0058,0.0826,1,1
+32663,Bethesda University,0.4882,,,,13575,,11097,205,11,Aheim,CA,,0.7105,,2
+12154,California Institute of Integral Studies,0.3432,,,,,,,38,11,San Francisco,CA,,,,
+1127,California College of the Arts,,0.911,,,79776,,53909,990,11,San Francisco,CA,,,,
+1143,California Polytechnic State University-San Luis Obispo,,0.3132,,,32265,16665,,21996,23,San Luis Obispo,CA,0.0225,0.1751,1,1
+7993,California State University-Bakersfield,,0.9385,,,19522,5652,,8577,11,Bakersfield,CA,0.0088,0.1276,1,1
+1157,California State University-Stanislaus,,0.9814,,,19739,6067,,8385,23,Turlock,CA,0.015,0.1682,1,1
+1142,California State University-San Berrdino,,0.9374,,,17427,4564,,15023,12,San Berrdino,CA,0.0199,0.1677,1,1
+1144,California State Polytechnic University-Pomo,,0.7517,,,23955,11531,,25042,21,Pomo,CA,0.0142,0.2584,1,1
+1146,California State University-Chico,0.3438,0.9272,,,26283,14480,,13631,12,Chico,CA,0.0074,0.1414,1,1
+1141,California State University-Dominguez Hills,0.7917,0.933,,,23191,8615,,12538,13,Carson,CA,0.0108,0.1839,1,2
+1147,California State University-Fresno,,0.9526,,,20095,7000,,21605,11,Fresno,CA,0.0074,0.1372,1,1
+1137,California State University-Fullerton,0.6179,0.9052,,,18269,6555,,38546,21,Fullerton,CA,0.0067,0.2393,1,1
+1138,California State University-East Bay,0.207,0.9739,,,22850,9320,,9809,21,Hayward,CA,0.0115,0.2451,1,1
+1139,California State University-Long Beach,,0.4627,,,22679,10440,,35924,11,Long Beach,CA,0.01,0.1591,1,1
+1140,California State University-Los Angeles,,0.9125,,,18403,3967,,19562,11,Los Angeles,CA,0.0032,0.1642,1,1
+1153,California State University-Northridge,0.1111,0.9345,,,20485,7021,,32691,11,Northridge,CA,0.0057,0.1917,1,1
+1150,California State University-Sacramento,0.676,0.9399,,,22945,9338,,28350,11,Sacramento,CA,0.0071,0.1318,1,1
+22676,Sofia University,0.4056,,,,,,,5,13,Palo Alto,CA,,,,
+42748,Haven University,,,,,,,,28,21,Garden Grove,CA,,0.6667,,1
+1132,California Institute of the Arts,0.6188,0.3234,,,77560,,46080,860,21,Valencia,CA,,,,
+1134,California State University Maritime Academy,0.6122,0.9501,,,29853,20555,,804,12,Vallejo,CA,,0.1205,,1
+10365,Charles R Drew University of Medicine and Science,0.5298,0.3874,,,39834,,35558,282,21,Los Angeles,CA,,,,
+1177,University of Silicon Valley,,0.5118,,,35722,,27815,455,11,San Jose,CA,,0.1319,,1
+21102,California College of ASU,,,,,31890,,17683,71,11,Los Angeles,CA,,,,
+22980,Design Institute of San Diego,,1,,,55911,,44010,77,11,San Diego,CA,,,,
+42848,DHARMA REALM BUDDHIST UNIVERSITY,,0.4138,,,,,,25,33,Ukiah,CA,,,,
+1205,Golden Gate University,,,,,,,,259,11,San Francisco,CA,,0.8205,,1
+1149,California State Polytechnic University-Humboldt,,0.982,,,25170,13171,,5612,33,Arcata,CA,0.0053,0.059,1,1
+1212,Humphreys University-Stockton and Modesto Campuses,0.3728,,,,20918,,5524,149,11,Stockton,CA,,0.4792,,2
+23305,Lagu College of Art and Design,,0.9432,,,57989,,42505,746,41,Lagu Beach,CA,,,,
+6975,Lincoln University,,,,,,,,204,11,Oakland,CA,,0.3636,,1
+33323,Southern California Semiry,,,,,,,,32,21,El Cajon,CA,,,,
+1218,Loma Linda University,,,,,,,,909,21,Loma Linda,CA,,,,
+3691,Middlebury Institute of Intertiol Studies at Monterey,,,,,,,,4,22,Monterey,CA,,,,
+11460,tiol University,,,,,33978,,22878,10794,11,San Diego,CA,,0.2109,2,2
+30439,Newschool of Architecture and Design,,1,,,62004,,52570,182,11,San Diego,CA,,0.1833,,1
+,San Francisco Bay University,0.5,0.9578,,,,,,126,12,Fremont,CA,,,,2
+1251,Otis College of Art and Design,,0.8176,665,600,75861,,51248,1223,11,Los Angeles,CA,,,,
+21383,Palo Alto University,,,,,,,,14,41,Palo Alto,CA,,,,
+1255,Pacific Oaks College,,0.3438,,,,,,312,12,Pasade,CA,,0.0103,,2
+1172,Pitzer College,0.2003,0.2516,,,86466,,34191,1227,21,Claremont,CA,0.0377,0.0491,1,1
+1322,University of Redlands,,0.8271,560,547,76630,,30031,2049,13,Redlands,CA,0.0184,0.3445,1,1
+7012,Samuel Merritt University,,,,,,,,718,11,Oakland,CA,,,,
+1151,San Diego State University,,0.3619,,,27780,15364,,35377,11,San Diego,CA,0.0079,0.2708,1,1
+1278,San Francisco Conservatory of Music,,0.5491,,,78781,,42607,226,11,San Francisco,CA,,,,
+1154,San Francisco State University,0.4354,0.9644,,,26488,12278,,18639,11,San Francisco,CA,0.0101,0.1901,1,1
+1155,San Jose State University,,0.8461,,,26593,13760,,27601,11,San Jose,CA,0.0122,0.2565,1,1
+1326,Santa Clara University,0.619,0.48,670,680,82026,,50062,6552,12,Santa Clara,CA,0.0045,0.2702,1,1
+23593,Shasta Bible College and Graduate School,,1,,,34535,,30437,21,13,Redding,CA,,,,
+1156,Sonoma State University,,0.9343,,,24648,12885,,5166,21,Rohnert Park,CA,0.0143,0.1996,1,1
+1293,Vanguard University of Southern California,0.5828,0.6244,,,52665,,21241,1933,12,Costa Mesa,CA,0.0119,0.1746,1,1
+34033,Epic Bible College & Graduate School,0.932,,,,,,,66,21,Sacramento,CA,,,,
+25042,Walden University,,,,,35358,,33817,9136,11,Minneapolis,MN,,0.1353,,2
+1343,Woodbury University,,0.8165,,,58010,,33692,779,11,Burbank,CA,,0.1257,,1
+22624,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Semiry,0.7643,0.5821,,,31300,,14959,163,11,Los Angeles,CA,,,,
+1345,Adams State University,0.7368,,,,24352,12980,,1250,33,Alamosa,CO,,0.1985,1,1
+4508,University of Colorado Denver/Anschutz Medical Campus,,0.7468,490,490,24902,11900,,10519,11,Denver,CO,0.0063,0.174,1,1
+4509,University of Colorado Colorado Springs,0.3647,0.9735,510,500,24595,15788,,8697,11,Colorado Springs,CO,0.0102,0.1731,1,1
+1370,University of Colorado Boulder,0.5598,0.7808,630,610,37684,25346,,31939,12,Boulder,CO,0.0132,0.1725,1,1
+9401,Colorado Christian University,,,,,54242,,29500,5549,21,Lakewood,CO,,0.188,,2
+1347,Colorado College,0.6922,0.1847,640,590,86921,,33375,2014,11,Colorado Springs,CO,0.0254,,1,
+1350,Colorado State University-Fort Collins,,0.8854,,,31642,21279,,25538,12,Fort Collins,CO,0.011,0.1491,1,1
+10148,Colorado Technical University-Colorado Springs,,,,,23744,,16745,28086,11,Colorado Springs,CO,,0.654,,2
+1353,Fort Lewis College,,0.773,505,505,27030,17296,,3079,32,Durango,CO,0.0104,0.1548,1,1
+1358,Colorado Mesa University,,0.8203,480,450,24046,15103,,8143,13,Grand Junction,CO,0.0037,0.1478,1,1
+1360,Metropolitan State University of Denver,0.703,0.988,450,430,24622,15327,,15002,11,Denver,CO,0.0089,0.168,1,1
+21175,ropa University,0.5759,1,,,53397,,29179,339,12,Boulder,CO,,,,
+13007,zarene Bible College,,,,,,,,284,11,Colorado Springs,CO,,,,
+1349,University of Northern Colorado,0.5677,0.8585,490,460,29254,17760,,5598,12,Greeley,CO,0.0116,0.1019,1,1
+7649,Rocky Mountain College of Art and Design,0.7143,,,,37505,,32363,2050,21,Lakewood,CO,,,,
+1365,Colorado State University Pueblo,,0.949,,,23937,10051,,3042,12,Pueblo,CO,0.0043,0.1707,1,2
+1369,United States Air Force Academy,,0.1409,620,610,,,,4114,41,USAF Academy,CO,0.0123,0.1417,1,1
+1372,Western Colorado University,,0.9971,608,555,25736,16425,,1586,33,Gunnison,CO,0.0184,0.1564,1,1
+1374,Albertus Magnus College,,0.5931,,,59407,,34028,991,12,New Haven,CT,0.0094,0.3474,1,1
+32343,Charter Oak State College,,,,,23210,15815,,1821,21,New Britain,CT,,0.1731,,2
+1379,Connecticut College,,0.3704,690,660,84623,,36175,1937,13,New London,CT,0.0131,,1,
+1425,Eastern Connecticut State University,0.2789,0.8298,540,530,31983,21067,,3418,31,Willimantic,CT,0.0284,0.1985,1,1
+1385,Fairfield University,,0.3329,630,630,76074,,48095,5373,21,Fairfield,CT,0.0057,0.4564,1,1
+1422,University of Hartford,0.6,0.9575,570,550,64729,,30282,4146,12,West Hartford,CT,0.0011,0.1233,1,1
+1389,Holy Apostles College and Semiry,,,,,17990,,10117,216,21,Cromwell,CT,,,,
+1393,Mitchell College,,0.9466,,,55621,,30260,377,13,New London,CT,,0.0833,,1
+1403,Sacred Heart University,0.3957,0.6536,,,69289,,46174,7087,21,Fairfield,CT,0.0079,0.2749,1,1
+1409,University of Saint Joseph,0.291,0.7859,440,410,59900,,27989,838,13,West Hartford,CT,0.0186,0.0837,1,1
+1414,Trinity College,,0.2925,658,640,87840,,34832,2146,12,Hartford,CT,0.0244,,1,
+1424,Wesleyan University,0.4615,0.1649,705,710,89020,,30177,3067,13,Middletown,CT,0.0131,,1,
+1380,Western Connecticut State University,0.4693,0.8701,510,530,24877,17604,,3511,13,Danbury,CT,0.0064,0.2465,1,1
+1429,Goldey-Beacom College,0.8766,0.8451,,,26502,,15554,691,21,Wilmington,DE,,0.6528,,1
+7948,Wilmington University,0.2737,,,,19644,,15644,7906,21,New Castle,DE,,0.2483,,2
+1437,The Catholic University of America,0.3354,0.8278,,,75481,,29561,3154,11,Washington,DC,0.0031,0.2433,1,1
+1443,Gallaudet University,0.6651,0.5806,380,400,40374,,15845,812,11,Washington,DC,0.0306,0.0918,1,1
+1445,Georgetown University,0.1878,0.1291,700,690,88741,,40815,7569,11,Washington,DC,0.015,0.176,1,1
+1459,Strayer University-District of Columbia,,,,,,,,156,11,Washington,DC,,0.6719,,2
+1460,Trinity Washington University,0.1997,0.9952,,,33903,,9302,1414,11,Washington,DC,0.0033,0.1303,1,1
+21596,Baptist University of Florida,0.756,0.3599,,,23159,,10372,360,42,Graceville,FL,,0.0185,,2
+1466,Barry University,,0.7724,,,50778,,22613,2212,21,Miami,FL,0.0019,0.1888,1,1
+1467,Bethune-Cookman University,0.3564,0.8824,430,400,29764,,12030,2732,13,Dayto Beach,FL,0.0034,0.1586,1,1
+10724,Albizu University-Miami,,0.7571,,,28344,,19849,287,13,Miami,FL,,,,
+13039,South University-West Palm Beach,,,,,29798,,20271,251,21,Royal Palm Beach,FL,,0.0278,,2
+1487,Eckerd College,0.5124,0.758,600,560,68944,,38071,1888,11,Saint Petersburg,FL,,0.1096,1,1
+1479,Embry-Riddle Aeroutical University-Dayto Beach,0.2058,0.6481,580,580,64632,,41272,7860,13,Dayto Beach,FL,0.014,0.0502,1,1
+31155,AdventHealth University,0.8333,,,,38408,,30135,1361,11,Orlando,FL,,,,
+1469,Florida Institute of Technology,0.3973,0.577,560,560,62440,,35639,3404,13,Melbourne,FL,0.0075,0.0924,1,1
+1486,Florida Memorial University,,0.8526,,,35809,,23238,1183,21,Miami Gardens,FL,,0.2477,,1
+23621,Full Sail University,0.8751,,,,47530,,38875,25777,21,Winter Park,FL,,0.0202,,2
+21889,Hobe Sound Bible College,0.4119,,,,18838,,12074,112,21,Hobe Sound,FL,,,,
+1495,Jacksonville University,,0.5694,580,520,63969,,25180,2930,11,Jacksonville,FL,0.0087,0.1101,1,1
+31009,Luther Rice College & Semiry,0.5438,0.9167,,,31680,,27883,165,21,Lithonia,GA,,,,
+1509,Nova Southeastern University,0.6376,0.7321,530,500,56692,,30371,7240,21,Fort Lauderdale,FL,0.0025,0.0892,1,1
+12574,Ringling College of Art and Design,0.8055,0.6965,,,80276,,57742,1662,13,Sarasota,FL,,,,
+1515,Rollins College,,0.4754,600,560,76108,,34732,2631,21,Winter Park,FL,0.0108,0.3447,1,1
+1526,Saint Leo University,0.7549,0.784,,,45264,,21293,6721,31,Saint Leo,FL,0.0007,0.2709,1,2
+8075,St. John Vianney College Semiry,0.6996,0.9286,,,,,,77,21,Miami,FL,,,,
+1531,Stetson University,0.4929,0.716,540,520,72533,,19372,2297,13,DeLand,FL,0.0082,0.2796,1,1
+25089,Talmudic College of Florida,0.3787,,,,33000,,17000,27,13,Miami Beach,FL,,,,
+8848,Warner University,0.5208,0.4281,410,380,41044,,19748,756,41,Lake Wales,FL,,0.2994,,2
+1540,Webber Intertiol University,0.4,0.694,,,50989,,29529,813,41,Babson Park,FL,,0.3566,,1
+1541,Abraham Baldwin Agricultural College,0.4323,0.7572,440,420,13956,6842,,3208,32,Tifton,GA,,0.0684,,1
+1542,Agnes Scott College,0.1818,0.6215,620,540,63283,,24754,836,21,Decatur,GA,0.0191,0.0957,1,1
+1544,Albany State University,0.6655,,,,19333,11898,,5956,13,Albany,GA,0.0065,0.088,1,2
+1559,Clark Atlanta University,,0.6422,,,43676,,37702,3603,11,Atlanta,GA,0.0046,0.2437,1,1
+30763,Beulah Heights University,0.3889,,,,,,,138,11,Atlanta,GA,,0.5882,,2
+1557,Brewton-Parker College,0.6354,0.9649,,,38918,,26054,774,42,Mount Vernon,GA,,0.2121,,2
+1558,College of Coastal Georgia,0.7443,0.9813,465,410,21924,15261,,2979,13,Brunswick,GA,0.0042,0.2156,2,2
+8976,Clayton  State University,0.311,0.6845,450,410,17415,8365,,4348,21,Morrow,GA,0.0073,0.1898,1,1
+3956,Dalton State College,0.9112,,,,12719,5012,,4553,13,Dalton,GA,0.0071,0.2147,1,1
+13039,South University-Savanh,0.4433,,,,36577,,28743,270,12,Savanh,GA,,0.1905,,2
+1563,Emmanuel University,,0.74,,,37604,,20925,775,42,Franklin Springs,GA,0.0203,0.2568,1,1
+1566,Fort Valley State University,0.3418,0.6587,480,450,19879,10338,,2684,31,Fort Valley,GA,0.008,0.1444,1,1
+1573,Georgia Southwestern State University,,0.7517,460,430,20484,12019,,2424,32,Americus,GA,,0.3437,1,2
+20748,Life University,,0.9303,480,440,41295,,29791,893,13,Marietta,GA,,0.2172,,2
+9621,Herzing University-Atlanta,,0.9375,,,27007,,21679,387,11,Atlanta,GA,,0.0798,,1
+1583,Morris Brown College,,,,,31968,,24901,432,11,Atlanta,GA,,0.5536,,1
+1588,Piedmont University,,0.9328,528,510,46801,,20599,1117,32,Demorest,GA,,0.1478,1,1
+1590,Savanh State University,,,,,17191,8172,,2833,12,Savanh,GA,0.0023,0.2311,1,1
+1555,Thomas University,0.4594,0.383,500,490,23079,,18499,998,32,Thomasville,GA,,0.1263,,2
+1596,Toccoa Falls College,0.8368,0.6596,520,490,37561,,21642,875,32,Toccoa Falls,GA,,0.1402,,2
+1601,University of West Georgia,,0.5161,490,460,21981,12786,,7520,32,Carrollton,GA,0.0025,0.2228,1,2
+1605,Chamide University of Honolulu,0.5922,0.9143,490,480,45798,,28856,1672,11,Honolulu,HI,,0.1015,,1
+1611,University of Hawaii at Hilo,0.6921,0.6063,490,455,21173,11856,,2160,33,Hilo,HI,0.0111,0.1384,1,1
+7279,Hawaii Pacific University,0.3888,0.8587,510,488,50674,,29657,2392,11,Honolulu,HI,0.0051,0.1486,1,2
+21078,University of Hawaii-West Oahu,,0.9534,473,458,18410,10327,,2519,21,Kapolei,HI,,0.3443,,1
+1620,Idaho State University,,,,,21527,12193,,7583,13,Pocatello,ID,0.0037,0.0909,1,1
+1617,The College of Idaho,0.7207,0.491,540,530,50542,,19481,1041,22,Caldwell,ID,0.0046,0.2694,1,1
+1621,Lewis-Clark State College,,0.8769,,,21925,15635,,2385,13,Lewiston,ID,0.0022,0.1186,1,2
+1633,Augusta College,,0.6268,520,510,63553,,22736,2490,13,Rock Island,IL,0.0065,0.2284,1,1
+1639,Blackburn College,0.4888,0.6319,,,37916,,18460,471,32,Carlinville,IL,,0.0909,1,1
+6214,Blessing Rieman College of Nursing and Health Sciences,0.4764,,,,,,,176,33,Quincy,IL,,,,
+1641,Bradley University,0.7676,0.7676,,,54730,,22719,3574,12,Peoria,IL,0.0066,0.1432,1,1
+21553,The Chicago School at Chicago,,0.3448,,,,,,21,11,Chicago,IL,,,,
+1694,Chicago State University,,0.4326,,,29764,12335,,1384,11,Chicago,IL,0.0147,0.1324,1,1
+1665,Columbia College Chicago,,0.8946,,,51889,,26598,5368,11,Chicago,IL,,0.0256,,1
+1666,Concordia University-Chicago,,0.9279,,,45383,,18436,1323,21,River Forest,IL,0.0068,0.1507,1,2
+1671,DePaul University,0.3615,0.7589,580,560,63052,,30902,14090,11,Chicago,IL,0.0058,0.3013,1,1
+21686,East-West University,,,,,32606,,21697,468,11,Chicago,IL,,0.3235,1,1
+1674,Eastern Illinois University,,0.6535,460,420,26996,12786,,4188,33,Charleston,IL,0.0045,0.1262,1,1
+1767,Benedictine University,0.3291,0.9523,,,46713,,22313,1942,21,Lisle,IL,0.0024,0.3146,1,2
+1688,Illinois College,,0.7819,450,433,48955,,18298,930,32,Jacksonville,IL,0.0039,0.2257,1,1
+1691,Illinois Institute of Technology,,0.5493,590,590,68164,,18425,2833,11,Chicago,IL,0.0236,0.0219,1,1
+1692,Illinois State University,,0.8815,500,490,34309,19398,,19057,22,Normal,IL,0.0137,0.2156,1,1
+1700,Judson University,0.0909,0.4759,423,393,43137,,18558,708,12,Elgin,IL,0.0105,0.2263,1,2
+1704,Knox College,0.2066,0.7079,600,580,68134,,24595,1127,32,Galesburg,IL,0.0089,0.1067,1,1
+1706,Lake Forest College,0.9402,0.5681,600,590,70655,,28673,1813,21,Lake Forest,IL,0.0144,0.1847,1,1
+10501,Lakeview College of Nursing,0.549,,,,,,,66,32,Danville,IL,,,,
+6225,Trinity College of Nursing & Health Sciences,,,,,,,,56,13,Rock Island,IL,,,,
+6228,Methodist College,0.3793,0.3889,,,46874,,41787,245,12,Peoria,IL,,,,
+1725,Monmouth College,,0.9093,500,500,57157,,17133,702,32,Monmouth,IL,0.0053,0.1746,1,1
+1727,Moody Bible Institute,0.1395,0.8269,,,34327,,22221,1510,11,Chicago,IL,,,,
+1733,tiol Louis University,0.25,0.9505,,,24154,,12641,4406,11,Chicago,IL,,0.1273,,2
+1732,tiol University of Health Sciences,,,,,,,,13,21,Lombard,IL,,,,
+1734,North Central College,0.1443,0.7733,530,525,57219,,21044,2428,12,perville,IL,0.0072,0.246,1,1
+1693,Northeastern Illinois University,,0.746,,,26960,14109,,3982,11,Chicago,IL,0.0081,0.1746,1,1
+1741,Olivet zarene University,0.6941,0.5586,490,460,51981,,20729,2603,23,Bourbonis,IL,0.0038,0.1593,2,2
+1745,Quincy University,0.7846,0.5093,490,510,50091,,20359,1010,33,Quincy,IL,0.0051,0.2071,1,1
+9800,Rush University,,,,,,,,138,11,Chicago,IL,,,,
+6240,Saint Francis Medical Center College of Nursing,0.4236,,,,,,,273,12,Peoria,IL,,,,
+30980,St. John's College-Department of Nursing,0.4452,,,,,,,126,12,Springfield,IL,,,,
+9987,Saint Anthony College of Nursing,,,,,,,,172,12,Rockford,IL,,,,
+1758,Southern Illinois University-Carbondale,,0.8688,470,430,28329,13297,,8494,32,Carbondale,IL,0.0032,0.0836,1,2
+20732,Telshe Yeshiva-Chicago,0.2775,1,,,23300,,7626,78,11,Chicago,IL,,,,
+1771,Trinity Christian College,,0.8492,510,540,35012,,19125,820,21,Palos Heights,IL,0.0049,0.1214,1,1
+1772,Trinity Intertiol University-Illinois,,1,,,16515,,2835,55,21,Deerfield,IL,0.0182,0.2545,1,1
+1780,Western Illinois University,0.3939,0.7118,,,28254,12937,,4410,33,Macomb,IL,0.0018,0.1259,1,2
+1785,Anderson University,0.6254,0.7934,450,450,51585,,25021,1057,13,Anderson,IN,0.0048,0.1818,1,1
+1834,Calumet College of Saint Joseph,0.4017,,,,32968,,22451,529,21,Whiting,IN,,0.1591,,1
+1793,Earlham College,0.3316,0.7311,570,540,67684,,24714,670,32,Richmond,IN,,0.1553,1,1
+1800,Grace College and Theological Semiry,,0.8215,510,490,41838,,19932,1464,32,Wino Lake,IN,0.008,0.2834,1,2
+1821,Marian University,0.5749,0.9546,,,56258,,24018,2266,11,Indiapolis,IN,0.0065,0.1565,1,1
+21408,Martin University,,,,,23152,,18114,150,11,Indiapolis,IN,,0.3103,,1
+1840,University of Notre Dame,,0.1127,720,735,83271,,26780,8818,21,Notre Dame,IN,0.0361,0.2482,1,1
+1824,Oakland City University,,0.8251,,,42441,,15210,499,42,Oakland City,IN,0.0056,0.2961,1,2
+1839,Trine University,,0.8548,,,51109,,25355,2324,32,Angola,IN,0.002,0.1174,1,1
+30691,Allen College,0.9585,,,,,,,261,13,Waterloo,IA,,,,
+1846,Briar Cliff University,,,,,51493,,23907,624,13,Sioux City,IA,,0.1793,1,2
+1847,Bue Vista University,,0.7761,,,54222,,18846,1366,33,Storm Lake,IA,0.0049,0.2518,1,2
+1850,Central College,,0.8617,528,528,37773,,23377,1070,32,Pella,IA,0.0127,0.2152,1,1
+1852,Clarke University,,0.7183,430,470,55782,,24479,742,13,Dubuque,IA,,0.1731,1,1
+1858,Divine Word College,0.5155,,,,,,,64,42,Epworth,IA,,,,
+1860,Drake University,0.3646,0.6385,580,530,64835,,29127,2543,12,Des Moines,IA,0.0153,0.2219,1,1
+1891,University of Dubuque,,0.8863,490,490,53806,,23386,1440,13,Dubuque,IA,0.0061,0.2744,1,1
+1866,Graceland University-Lamoni,,0.8083,,,48294,,18504,798,43,Lamoni,IA,0.0104,0.1615,1,2
+1868,Grinnell College,0.1556,0.1451,700,710,83440,,17648,1729,33,Grinnell,IA,0.0392,,1,
+1869,Iowa State University,0.2211,0.8866,560,560,24018,18589,,25367,13,Ames,IA,0.0122,0.1715,1,1
+1892,University of Iowa,0.3982,0.8362,570,560,28596,22531,,22264,13,Iowa City,IA,0.012,0.2395,1,1
+1873,Loras College,,0.9986,,,50537,,20716,1083,13,Dubuque,IA,0.0265,0.2035,1,1
+11113,Maharishi Intertiol University,0.6162,0.957,,,27892,,14956,922,33,Fairfield,IA,0.0051,0.4974,1,1
+6273,Mercy College of Health Sciences,,0.9971,,,34398,,26924,867,12,Des Moines,IA,,,,
+1879,Morningside University,0.8513,0.7104,,,52577,,31320,1163,13,Sioux City,IA,0.0039,0.2791,1,1
+1880,Mount Mercy University,0.747,0.8252,,,55054,,20168,1107,12,Cedar Rapids,IA,,0.3097,1,2
+1881,Ashford University,,,,,37594,,31266,20152,11,San Diego,CA,,0.4626,,2
+1883,Northwestern College,,0.8036,,,49783,,25907,1175,32,Orange City,IA,0.012,0.24,1,1
+12300,Palmer College of Chiropractic,,,,,,,,43,12,Davenport,IA,,,,
+1889,Saint Ambrose University,,0.7733,490,440,51141,,24691,1916,12,Davenport,IA,0.0037,0.2285,1,1
+1887,Simpson College,,0.8622,,,61227,,21936,1227,31,Indianola,IA,0.0202,0.1862,1,2
+1895,Waldorf University,0.7778,0.7698,,,39675,,19693,1827,43,Forest City,IA,,0.2022,,2
+1900,William Penn University,,0.5188,450,430,42874,,22601,1301,33,Oskaloosa,IA,0.0034,0.1846,1,2
+1903,Baker University,,0.9419,,,50918,,25301,1100,42,Baldwin City,KS,0.0083,0.325,1,2
+10256,Benedictine College,0.7304,0.9812,570,570,52206,,27891,2272,32,Atchison,KS,0.0232,0.1832,1,1
+1905,Bethel College-North Newton,,0.935,,,52193,,32917,504,32,North Newton,KS,,0.2759,1,1
+1908,Central Christian College of Kansas,,0.5271,,,33327,,11404,380,33,McPherson,KS,,0.1963,1,2
+1927,Emporia State University,0.5494,0.9771,,,21967,16261,,2239,33,Emporia,KS,,0.2094,1,1
+1915,Fort Hays State University,0.6233,0.9026,500,470,19909,12569,,9733,33,Hays,KS,0.0038,0.3165,1,2
+1917,Barclay College,,0.5098,,,42890,,29290,168,43,Haviland,KS,,0.125,,2
+1918,Friends University,,0.5522,500,460,50482,,27715,1048,11,Wichita,KS,0.0092,0.2615,1,1
+21689,Kansas Christian College,,,,,20997,,15313,143,12,Overland Park,KS,,0.5143,,2
+1948,University of Kansas,,0.9348,540,530,26751,18059,,21217,13,Lawrence,KS,0.0079,0.2113,1,2
+1928,Kansas State University,,0.8169,550,510,27402,19406,,15142,13,Manhattan,KS,0.0048,0.2599,1,1
+1929,Kansas Wesleyan University,,0.719,,,47437,,22671,956,33,Sali,KS,,0.2414,1,1
+1933,McPherson College,,0.7676,470,490,50611,,26441,872,33,McPherson,KS,0.0123,0.1963,1,1
+7032,MidAmerica zarene University,,0.788,460,490,57355,,32165,983,21,Olathe,KS,0.0033,0.1429,1,1
+1937,Ottawa University-Ottawa,0.5526,0.8296,420,330,51856,,27963,870,32,Ottawa,KS,0.0073,0.2701,1,1
+1937,Ottawa University-Kansas City,,,,,,,,219,12,Overland Park,KS,0.0104,0.3229,2,2
+1943,University of Saint Mary,,0.8663,378,428,48728,,22519,925,31,Leavenworth,KS,0.0213,0.1223,1,1
+1940,Southwestern College,,0.7555,,,58432,,29824,924,32,Winfield,KS,0.006,0.3855,1,2
+1945,Sterling College,,0.4817,,,47185,,22371,538,43,Sterling,KS,0.0174,0.2,1,2
+1946,Tabor College,0.1714,0.6458,,,50350,,20205,494,43,Hillsboro,KS,,0.2462,1,1
+1949,Washburn University,,,,,21512,15280,,4562,12,Topeka,KS,0.0102,0.0998,1,1
+1950,Wichita State University,,0.9395,470,435,21780,13194,,10780,11,Wichita,KS,0.0039,0.1648,1,2
+1952,Asbury University,,0.634,,,47459,,21401,1420,31,Wilmore,KY,0.0136,0.2177,1,2
+1954,Bellarmine University,0.5697,0.8611,510,520,61691,,21499,2161,11,Louisville,KY,0.0034,0.1701,1,1
+1958,Brescia University,,0.3524,,,44328,,8709,545,13,Owensboro,KY,0.0313,0.2969,1,1
+1961,Centre College,0.461,0.5436,590,570,67787,,20781,1400,32,Danville,KY,0.0334,,1,
+25356,Clear Creek Baptist Bible College,,,,,21040,,10949,159,42,Pineville,KY,,,,
+30837,Galen College of Nursing-Louisville,0.6667,,,,,,18540,4801,11,Louisville,KY,,,,
+1962,University of the Cumberlands,,0.9881,,,25567,,14107,6941,33,Williamsburg,KY,0.0026,0.1773,1,1
+1964,Georgetown College,,0.9106,500,460,56886,,14095,1097,31,Georgetown,KY,0.0083,0.2667,1,1
+1969,Kentucky Wesleyan College,0.7469,0.716,440,450,46203,,17131,842,13,Owensboro,KY,,0.1806,1,2
+1972,Lindsey Wilson College,0.69,,,,40879,,15070,1585,33,Columbia,KY,0.0171,0.1714,1,1
+1975,Midway University,0.6877,0.9514,570,530,48805,,29579,1262,42,Midway,KY,0.0071,0.2286,1,2
+1977,Murray State University,0.6713,0.8568,480,460,23485,9096,,6688,32,Murray,KY,0.0081,0.1641,1,2
+1980,University of Pikeville,,,,,33420,,20311,1135,33,Pikeville,KY,0.0033,0.148,1,1
+1982,The Southern Baptist Theological Semiry,0.4288,0.5587,520,490,,,,848,11,Louisville,KY,,0.211,,1
+1960,Spalding University,0.4561,0.9945,440,435,45530,,25491,583,11,Louisville,KY,,0.1646,,2
+2001,Thomas More University,0.8021,0.9035,510,520,49452,,21835,1293,21,Crestview Hills,KY,0.0069,0.2897,1,1
+1987,Transylvania University,0.3738,0.8655,580,540,60993,,21913,1005,11,Lexington,KY,0.0338,0.2367,1,1
+1988,Union Commonwealth University,0.3919,0.6315,,,44322,,21311,746,33,Barbourville,KY,0.0053,0.2116,1,2
+2002,Western Kentucky University,0.3958,0.9387,420,420,24188,10990,,12155,13,Bowling Green,KY,0.0027,0.191,1,2
+2003,Centery College of Louisia,0.4608,0.5574,530,530,60620,,23624,685,12,Shreveport,LA,0.0096,0.25,1,1
+2004,Dillard University,,0.4186,480,488,39202,,22094,1063,11,New Orleans,LA,0.0165,0.1593,1,1
+2014,Louisia State University Health Sciences Center-New Orleans,,,,,,,,862,11,New Orleans,LA,,,,
+2010,Louisia State University and Agricultural & Mechanical College,0.7816,0.7333,600,580,34705,19151,,30594,12,Baton Rouge,LA,0.0088,0.2185,1,2
+2013,Louisia State University-Shreveport,0.4663,0.5055,515,485,19461,7022,,2153,12,Shreveport,LA,,0.4587,1,1
+2008,Louisia Tech University,0.6438,0.864,550,550,24280,11864,,8312,32,Ruston,LA,0.0071,0.1898,1,1
+2016,Loyola University New Orleans,0.7037,0.9305,,,64157,,23696,2812,11,New Orleans,LA,,0.1426,1,1
+2017,McNeese State University,,0.7827,490,450,22810,12493,,5005,13,Lake Charles,LA,0.0076,0.1638,1,1
+2015,University of New Orleans,0.3892,0.7431,480,455,23431,12384,,4638,11,New Orleans,LA,0.0051,0.2433,1,1
+2019,New Orleans Baptist Theological Semiry,0.7701,,,,21660,,10829,865,11,New Orleans,LA,,,,
+2021,Northwestern State University of Louisia,0.4751,0.9254,448,418,25431,13606,,5519,33,tchitoches,LA,0.0013,0.0918,1,2
+2023,University of Holy Cross,0.6169,0.7366,,,27541,,15635,471,11,New Orleans,LA,,0.1494,,2
+31062,Franciscan Missiories of Our Lady University,,0.987,,,28490,,18552,821,12,Baton Rouge,LA,,0.0094,,2
+2027,Saint Joseph Semiry College,0.659,,,,49944,,45460,93,41,St. Benedict,LA,,,,
+2024,Southeastern Louisia University,0.4008,0.9931,,,23604,13154,,9514,13,Hammond,LA,0.0046,0.2242,1,1
+2031,University of Louisia at Lafayette,0.8298,0.8701,570,550,24884,13530,,12428,12,Lafayette,LA,0.0048,0.139,1,2
+11385,College of the Atlantic,0.6753,0.7017,660,580,58266,,25184,353,43,Bar Harbor,ME,,,,
+2036,Bates College,0.4195,0.1332,710,710,83532,,29351,1760,13,Lewiston,ME,0.0439,,1,
+2038,Bowdoin College,0.8812,0.0713,730,740,85100,,14398,1873,31,Brunswick,ME,0.0539,,1,
+6760,University of Maine at Augusta,,,,,19052,10924,,2659,32,Augusta,ME,,0.0831,,2
+2040,University of Maine at Farmington,,0.9672,485,510,25822,16857,,1140,43,Farmington,ME,0.0105,0.0697,1,1
+2033,University of Maine at Presque Isle,,0.9987,,,19113,7035,,1913,41,Presque Isle,ME,0.0032,0.3349,1,1
+11673,Maine College of Art & Design,0.7463,0.7606,,,60128,,38338,415,13,Portland,ME,,,,
+2052,Thomas College,,0.963,,,47198,,18885,647,33,Waterville,ME,0.0127,0.3503,1,1
+6858,Unity Environmental University,,,,,21931,,19104,6483,42,New Gloucester,ME,,,,2
+1436,Capitol Technology University,0.5014,0.7435,,,42471,,22102,315,21,Laurel,MD,,0.0189,,2
+2068,Coppin State University,0.6792,0.4583,460,420,23748,9977,,1844,11,Baltimore,MD,0.0064,0.1061,1,1
+2073,Goucher College,,0.7771,560,530,70544,,22470,964,13,Baltimore,MD,,0.0941,1,1
+2076,Hood College,1,0.7777,,,61219,,20873,1194,13,Frederick,MD,0.0109,0.1522,1,1
+2078,Loyola University Maryland,,0.7549,620,580,74055,,30574,3869,11,Baltimore,MD,0.0086,0.3117,1,1
+11644,University of Maryland Global Campus,,,,,25400,22063,,49664,21,Adelphi,MD,,0.2341,,2
+2104,University of Maryland Baltimore,,,,,,,,958,11,Baltimore,MD,,,,
+2103,University of Maryland-College Park,,0.4479,690,710,29299,15678,,30760,21,College Park,MD,0.0229,0.1226,1,1
+2083,Morgan State University,,0.8223,400,440,25413,14985,,9019,11,Baltimore,MD,0.0011,0.2062,1,1
+2087,Ner Israel Rabbinical College,,0.6566,,,26750,,13572,280,21,Baltimore,MD,,,,
+2065,Notre Dame of Maryland University,0.3262,0.8216,,,59320,,19169,709,11,Baltimore,MD,,0.0309,1,1
+2091,Salisbury University,,0.8747,600,580,28310,17743,,6057,23,Salisbury,MD,0.0095,0.1743,1,1
+2095,St. Mary's College of Maryland,0.6158,0.6863,590,553,31865,18441,,1603,41,St. Mary's City,MD,0.0238,0.0149,1,1
+2092,St. John's College,0.3574,0.5524,680,590,55540,,45597,471,21,Anpolis,MD,,,,
+2101,United States val Academy,,0.0927,610,600,,,,4474,21,Anpolis,MD,0.0171,,1,
+2108,Washington College,0.2697,0.5689,580,560,73314,,27898,891,32,Chestertown,MD,0.02,0.152,1,1
+2109,McDaniel College,,0.7793,,,65294,,21916,1617,31,Westminster,MD,0.0153,0.1298,1,1
+41432,Hult Intertiol Business School,,0.6048,,,79075,,45447,618,12,Cambridge,MA,,1,,1
+2117,An Maria College,,0.503,,,61888,,28333,906,41,Paxton,MA,,0.1667,,1
+2118,Assumption University,0.4583,0.8298,,,65551,,29498,1669,12,Worcester,MA,0.0182,0.2802,1,1
+2122,Bay Path University,,0.852,490,520,47308,,14271,1108,21,Longmeadow,MA,,0.2159,,2
+2126,Berklee College of Music,0.477,0.4353,,,72700,,49465,7468,11,Boston,MA,,,,
+3966,Boston Architectural College,0.4335,,,,40343,,25865,280,11,Boston,MA,,,,
+2183,Bridgewater State University,,0.8781,550,510,26160,16383,,7829,21,Bridgewater,MA,0.02,0.1476,1,1
+21829,Cambridge College,,,,,34072,,31072,532,11,Boston,MA,,0.4326,,2
+2139,Clark University,0.5286,0.3954,658,630,68432,,28714,2214,12,Worcester,MA,0.0181,0.0726,1,1
+2143,Curry College,0.098,0.8765,530,520,64020,,29207,1780,21,Milton,MA,,0.1097,,1
+2144,Dean College,0.6881,0.7371,,,64889,,30684,1089,21,Franklin,MA,,0.2058,,1
+2147,Emmanuel College,0.7108,0.7565,600,570,65252,,26706,1854,11,Boston,MA,0.0122,0.1463,1,1
+2148,Endicott College,0.4863,0.7121,610,583,59328,,40654,3125,21,Beverly,MA,0.0079,0.284,1,1
+2150,Fisher College,,0.7068,,,53921,,26649,1167,11,Boston,MA,,0.2749,,2
+4661,Hampshire College,0.5361,0.7528,,,74195,,24034,839,41,Amherst,MA,,0.0119,1,1
+2154,Hellenic College-Holy Cross Greek Orthodox School of Theology,,0.7963,,,41282,,25203,64,21,Brookline,MA,,,,1
+2141,College of the Holy Cross,,0.1761,630,610,80334,,38782,3106,12,Worcester,MA,0.0333,0.0253,1,1
+2161,University of Massachusetts-Lowell,0.4776,0.8304,590,590,30786,17163,,11434,21,Lowell,MA,0.0147,0.2011,1,1
+2221,University of Massachusetts-Amherst,,0.5973,650,660,34549,22383,,23671,13,Amherst,MA,0.0246,0.1609,1,1
+2222,University of Massachusetts-Boston,,0.8378,540,530,30544,17707,,11512,11,Boston,MA,0.009,0.1549,1,1
+21636,William James College,0.3374,,,,,,,39,13,Newton,MA,,,,
+2120,Merrimack College,0.5103,0.7002,,,70038,,37927,3916,21,North Andover,MA,0.0043,0.3187,1,1
+22316,MGH Institute of Health Professions,,,,,,,,164,11,Boston,MA,,,,
+20630,Montserrat College of Art,0.6498,,,,58616,,33216,226,21,Beverly,MA,,,,
+2192,Mount Holyoke College,,0.3603,710,670,84926,,26441,2169,21,South Hadley,MA,0.03,,1,
+2194,The New England Conservatory of Music,0.5822,0.411,,,81277,,46754,393,11,Boston,MA,,,,
+2164,New England College of Optometry,,,,,,,,,11,Boston,MA,,,,
+2197,Nichols College,0.5371,0.8084,528,500,58310,,33036,1163,21,Dudley,MA,,0.6596,,1
+2187,Massachusetts College of Liberal Arts,0.4201,0.8974,,,26026,16068,,713,31,North Adams,MA,0.0311,0.1242,1,1
+2206,Regis College,0.5043,0.6978,,,65546,,27477,956,21,Weston,MA,,0.0469,,1
+2214,Saint John's Semiry,,,,,,,,7,11,Brighton,MA,,,,
+2188,Salem State University,,0.9588,,,28291,15996,,4291,21,Salem,MA,0.0038,0.1622,1,1
+2209,Smith College,,0.21,720,700,86030,,27579,2544,13,Northampton,MA,0.0292,,1,
+2211,Springfield College,,0.7189,570,510,60729,,30587,1751,12,Springfield,MA,0.0041,0.0894,1,1
+2217,Stonehill College,,0.6628,,,72714,,33016,2528,21,Easton,MA,0.005,0.3244,1,1
+2226,Western New England University,,0.8348,540,550,60262,,27290,2603,12,Springfield,MA,0.003,0.4509,1,1
+2227,Wheaton College (Massachusetts),0.5,0.6773,640,580,79311,,29822,1773,21,Norton,MA,0.011,0.1685,1,1
+2233,Worcester Polytechnic Institute,0.6429,0.6016,,,78679,,43071,5447,12,Worcester,MA,0.0231,0.0085,1,1
+2234,Adrian College,0.319,0.7253,443,430,56003,,25368,1604,32,Adrian,MI,0.0054,0.2332,1,1
+2239,Aquis College,,0.8988,470,440,51652,,16626,1083,12,Grand Rapids,MI,0.0491,0.2453,1,1
+4673,Baker College,0.4406,0.8187,500,460,24526,,13157,3026,32,Owosso,MI,,0.1949,,2
+2241,Calvin University,,0.7091,550,533,54222,,22992,3193,12,Grand Rapids,MI,0.0086,0.1151,1,1
+2246,Cleary University,0.5224,0.6754,,,39718,,22143,738,22,Howell,MI,,1,,1
+3842,Concordia University Ann Arbor,,0.6925,,,51853,,32811,702,12,Ann Arbor,MI,0.006,0.2381,1,1
+6771,College for Creative Studies,,0.9194,,,66014,,34617,1230,11,Detroit,MI,,,,
+2249,Davenport University,,0.9784,,,37319,,17707,3134,21,Grand Rapids,MI,,0.4839,,2
+2262,Kettering University,0.7099,0.7867,580,580,61250,,34660,1205,13,Flint,MI,0.0029,0.0202,1,1
+2265,Grace Christian University,0.7148,0.9916,,,26166,,12404,716,13,Wyoming,MI,,0.1168,,2
+2266,Cornerstone University,0.3213,0.7777,,,42043,,20301,1298,12,Grand Rapids,MI,0.0028,0.2773,1,1
+2268,Grand Valley State University,,0.8302,480,460,28367,16317,,18854,31,Allendale,MI,0.0185,0.2275,1,1
+2269,Great Lakes Christian College,,,,,30311,,15524,197,21,Lansing,MI,,0.1579,,1
+2273,Hope College,,0.7924,550,550,55646,,27182,3288,13,Holland,MI,0.0086,0.2029,1,1
+2275,Kalamazoo College,,0.7532,590,580,74208,,19072,1149,13,Kalamazoo,MI,0.0199,0.1358,1,1
+2282,Madon University,,0.6339,460,420,41038,,17755,1632,13,Livonia,MI,,0.1879,1,1
+2288,Rochester University,,0.9765,,,41787,,21456,792,21,Rochester Hills,MI,,0.1444,,1
+4072,Northwood University,,0.6451,,,48780,,27232,1974,13,Midland,MI,,0.8602,,2
+2307,Oakland University,,0.8784,540,490,25182,9120,,12351,21,Rochester Hills,MI,0.0045,0.1753,1,1
+2308,The University of Olivet,0.6382,0.8325,,,47069,,21393,892,42,Olivet,MI,,0.2849,1,1
+2314,Sagiw Valley State University,0.542,0.7207,480,440,24936,10775,,5989,22,University Center,MI,0.0107,0.1669,1,1
+2316,Sie Heights University,0.432,0.689,413,393,44449,,17124,1495,32,Adrian,MI,0.0021,0.2144,1,1
+2318,Spring Arbor University,,0.5152,540,470,44703,,19353,1010,41,Spring Arbor,MI,,0.1923,1,2
+4071,Walsh College,,,,,,,,445,13,Troy,MI,,0.8566,,2
+2329,Wayne State University,,0.8116,540,520,27350,12766,,15587,11,Detroit,MI,0.0073,0.225,1,2
+2330,Western Michigan University,0.2709,0.846,,,29237,15273,,12568,13,Kalamazoo,MI,0.0022,0.271,1,1
+20503,Academy College,,,,,33874,,29093,56,13,Bloomington,MN,,0.25,,1
+2336,Bemidji State University,0.8969,0.5598,,,22744,15261,,3139,33,Bemidji,MN,0.0104,0.2033,1,2
+9058,Bethel University,0.36,0.878,610,580,58569,,28556,1871,21,Saint Paul,MN,0.0031,0.2308,1,2
+2346,Concordia College at Moorhead,0.6667,0.6265,,,45942,,24902,1829,22,Moorhead,MN,0.024,0.24,1,1
+2347,Concordia University-Saint Paul,,0.7887,,,37239,,18462,3018,11,Saint Paul,MN,0.0034,0.1636,1,2
+2361,Martin Luther College,,0.8717,,,29250,,18463,725,32,New Ulm,MN,,,,
+2353,Gustavus Adolphus College,0.5154,0.6099,,,67613,,22900,1878,31,Saint Peter,MN,0.0251,0.1095,1,1
+2360,Minnesota State University-Mankato,0.5155,0.8844,,,23995,19139,,11703,13,Mankato,MN,0.0064,0.2316,1,2
+10374,Metropolitan State University,,0.9871,,,25172,16863,,5616,11,Saint Paul,MN,0.0034,0.2542,1,2
+9621,Herzing University-Minneapolis,0.4035,0.9375,,,26163,,16670,740,13,St. Louis Park,MN,,0.0212,,1
+2367,Minnesota State University Moorhead,,0.5876,,,25197,17997,,3072,22,Moorhead,MN,0.0033,0.1971,1,2
+2369,North Central University,,0.9898,,,44475,,25817,709,11,Minneapolis,MN,0.0054,0.2,1,1
+2371,University of Northwestern-St Paul,,0.9347,430,438,51325,,27705,1442,21,Saint Paul,MN,0.0084,0.145,1,1
+9992,Oak Hills Christian College,0.382,,,,33958,,20227,75,41,Bemidji,MN,,0.0588,,1
+2377,Saint Cloud State University,,0.948,510,515,21116,13529,,5088,13,Saint Cloud,MN,0.0085,0.1888,1,2
+2382,St Olaf College,0.2865,0.4832,660,640,71843,,23874,3093,32,Northfield,MN,0.0774,,1,
+2383,Crown College,0.2622,0.2278,,,46598,,26672,796,41,Saint Bonifacius,MN,,0.1202,,1
+2345,University of St Thomas,,0.8536,640,620,66116,,29155,6245,11,Saint Paul,MN,0.0127,0.4126,1,1
+2342,St Catherine University,,0.9185,480,370,60476,,19764,2473,11,Saint Paul,MN,0.0028,0.0532,1,2
+2394,Wino State University,,0.7549,,,23683,17503,,5144,32,Wino,MN,0.0102,0.1461,1,1
+2396,Alcorn State University,0.7919,0.4533,400,270,23751,13265,,2363,43,Alcorn State,MS,,0.0489,1,1
+2397,Belhaven University,0.3333,0.4975,490,520,39793,,15676,1471,12,Jackson,MS,0.0198,0.2079,1,2
+2398,Blue Mountain Christian University,,0.8895,,,33197,,24016,498,42,Blue Mountain,MS,,0.1953,1,1
+2403,Delta State University,0.3533,1,475,450,22445,13540,,1620,33,Cleveland,MS,0.0091,0.1758,1,2
+2410,Jackson State University,0.5,0.9315,430,390,32415,23836,,4600,12,Jackson,MS,0.0024,0.1344,1,1
+2414,Millsaps College,0.6815,0.4312,495,530,60061,,26034,549,12,Jackson,MS,0.0234,0.3594,1,1
+2440,University of Mississippi,0.7143,0.9658,510,490,28660,13314,,21473,33,University,MS,0.0033,0.2723,1,1
+2422,Mississippi University for Women,0.6946,0.9031,,,22225,12411,,1605,33,Columbus,MS,0.0044,0.1418,1,1
+2424,Mississippi Valley State University,,0.9238,,,21154,9686,,1439,42,Itta Be,MS,,0.1724,1,1
+2415,Mississippi College,0.9294,0.2911,,,41214,,27712,2518,21,Clinton,MS,0.0104,0.171,1,1
+2423,Mississippi State University,0.6329,0.7764,560,540,29267,17595,,18397,33,Mississippi State,MS,0.0065,0.1958,1,1
+2433,Rust College,0.939,0.4867,,,23107,,12587,467,32,Holly Springs,MS,,0.1489,1,1
+2441,University of Southern Mississippi,0.7523,0.9912,,,26566,21708,,10075,13,Hattiesburg,MS,0.0042,0.1998,1,2
+2439,Tougaloo College,0.9312,0.5985,,,24239,,17043,639,12,Tougaloo,MS,0.0084,,1,
+2447,William Carey University,0.4394,0.6029,540,500,29651,,14258,2201,13,Hattiesburg,MS,0.002,0.0683,1,1
+2449,Avila University,0.6731,0.878,430,370,50096,,16053,1312,11,Kansas City,MO,,0.1624,,2
+13208,Mission University,,,,,28448,,21383,381,12,Springfield,MO,,0.4478,,1
+20682,Cox College,,1,,,,,,540,12,Springfield,MO,,,,
+22664,Central Christian College of the Bible,0.8866,,,,24748,,14356,154,32,Moberly,MO,,,,1
+2454,University of Central Missouri,0.8603,0.638,,,22947,14462,,5648,32,Warrensburg,MO,0.0055,0.1139,1,1
+20907,Cleveland University-Kansas City,,0.6923,,,40764,,35764,95,12,Overland Park,KS,,,,
+2456,Columbia College,,,,,37207,,22715,4950,12,Columbia,MO,0.002,0.3039,1,2
+2467,Conception Semiry College,,0.3182,,,42698,,24558,40,43,Conception,MO,,,,
+2458,Cottey College,,0.6918,,,39269,,13805,254,33,Nevada,MO,,0.1176,,1
+2460,Culver-Stockton College,0.7694,0.991,,,44112,,21983,807,43,Canton,MO,0.011,0.3022,1,1
+2461,Drury University,,0.5758,570,560,48846,,20831,1383,12,Springfield,MO,0.0291,0.1359,1,1
+2464,Fontbonne University,,,,,,,,207,21,Saint Louis,MO,0.0338,0.1824,1,1
+9089,Hannibal-LaGrange University,0.6751,0.7263,,,40839,,22814,410,33,Hannibal,MO,0.0096,0.2115,1,1
+2466,Harris-Stowe State University,0.7556,,,,21493,9922,,960,11,Saint Louis,MO,0.0137,0.2283,1,1
+6389,Barnes-Jewish College Goldfarb School of Nursing,0.4577,,,,,,,446,11,Saint Louis,MO,,,,
+2479,Lincoln University,0.5426,,,,23704,19092,,1392,13,Jefferson City,MO,0.0112,0.1338,1,1
+4703,Logan University,,0.6429,,,26928,,20218,229,21,Chesterfield,MO,,,,
+2482,Maryville University of Saint Louis,0.8733,0.9508,,,41959,,22066,5658,21,Saint Louis,MO,0.018,0.1583,1,2
+2485,Midwestern Baptist Theological Semiry,,0.964,,,29080,,23006,747,11,Kansas City,MO,,0.0522,,2
+7540,Missouri Baptist University,0.7778,0.686,,,49257,,27006,1488,21,Saint Louis,MO,0.0104,0.1792,1,2
+2488,Missouri Southern State University,,0.9703,540,610,19568,12007,,3019,13,Joplin,MO,0.0067,0.1509,1,1
+2489,Missouri Valley College,0.6482,0.6918,405,490,37899,,18086,1443,33,Marshall,MO,0.0049,0.335,1,2
+2490,Missouri Western State University,0.8326,,,,21595,13251,,2219,13,Saint Joseph,MO,,0.1615,1,1
+2516,University of Missouri-Columbia,0.4941,0.7847,580,570,31713,20268,,23929,12,Columbia,MO,0.0103,0.1786,1,2
+2518,University of Missouri-Kansas City,,0.7218,640,650,25320,13310,,6817,11,Kansas City,MO,0.0075,0.1959,1,1
+2519,University of Missouri-St Louis,0.6202,0.6267,510,550,31199,15071,,5024,21,Saint Louis,MO,0.0089,0.2248,1,2
+2495,Truman State University,,0.8377,600,570,25115,12780,,2513,33,Kirksville,MO,0.0405,0.1488,1,1
+2496,Northwest Missouri State University,,0.8609,478,498,24945,16244,,4378,33,Maryville,MO,0.0027,0.1682,1,2
+22027,Ozark Christian College,,0.9361,,,28485,,20580,602,13,Joplin,MO,,,,
+2498,Park University,,,,,29427,,21032,4555,21,Parkville,MO,0.0028,0.4352,1,2
+8552,Stevens-The Institute of Business & Arts,0.7005,1,,,24808,,19137,89,11,Saint Louis,MO,,0.4737,,1
+6392,Research College of Nursing,,,,,,,,177,11,Kansas City,MO,,,,
+2499,Rockhurst University,0.5347,0.6959,,,59898,,25884,1580,11,Kansas City,MO,0.0042,0.1744,1,1
+2506,Saint Louis University,0.8439,0.7504,600,600,71932,,24398,7267,11,Saint Louis,MO,0.0031,0.1709,1,2
+2504,University of Health Sciences and Pharmacy in St. Louis,,0.8984,530,525,54802,,31817,337,11,Saint Louis,MO,,,,
+2502,Southwest Baptist University,,0.6839,430,380,40301,,21677,1341,32,Bolivar,MO,0.0051,0.0846,1,1
+2501,Southeast Missouri State University,,0.7352,,,25177,15882,,6373,13,Cape Girardeau,MO,0.0018,0.1513,1,2
+2503,Missouri State University-Springfield,0.9054,0.9053,510,510,25048,17613,,13313,12,Springfield,MO,0.0022,0.1767,1,1
+2524,William Jewell College,,0.3836,540,540,35785,,17562,924,21,Liberty,MO,0.0118,0.2529,1,1
+2530,Monta State University Billings,0.8905,,,,20054,16524,,2626,12,Billings,MT,0.0017,0.2405,1,2
+2527,University of Providence,0.76,0.5028,,,43477,,17649,528,13,Great Falls,MT,,0.0735,1,1
+21434,Salish Kootei College,0.9153,,,,13047,7945,,580,42,Pablo,MT,,0.1,,1
+2537,The University of Monta-Western,0.6824,0.9978,,,21403,16558,,1198,33,Dillon,MT,,0.0979,1,1
+9743,Bellevue University,0.6398,,,,23531,,17550,10220,21,Bellevue,NE,0.0039,0.4831,2,2
+9862,Clarkson College,0.5441,0.7818,,,24670,,19241,622,11,Omaha,NE,,0.0169,,2
+6399,Bryan College of Health Sciences,0.7282,0.6737,,,32845,,26919,553,11,Lincoln,NE,,,,
+2539,Chadron State College,0.8971,,,,21132,12549,,1540,33,Chadron,NE,0.0052,0.2442,2,2
+2541,Concordia University-Nebraska,0.4842,0.8572,,,53292,,23965,1283,32,Seward,NE,0.004,0.1746,1,1
+2548,Hastings College,0.6159,0.7165,,,51422,,24452,891,32,Hastings,NE,0.0046,0.2339,1,1
+8492,CHI Health School of Radiologic Technology,,,,,,,,29,11,Omaha,NE,,,,
+2551,University of Nebraska at Kearney,0.6287,0.8949,495,410,25808,16242,,4088,32,Kearney,NE,0.0057,0.182,1,1
+6404,Nebraska Methodist College of Nursing & Allied Health,0.515,0.7341,,,32835,,21863,781,11,Omaha,NE,,,,
+6895,University of Nebraska Medical Center,,,,,,,,938,11,Omaha,NE,,,,
+2555,Nebraska Wesleyan University,,0.7982,490,530,53569,,18327,1453,11,Lincoln,NE,0.0059,0.1121,1,1
+2565,University of Nebraska-Lincoln,0.7406,0.8749,560,538,26697,17747,,19178,11,Lincoln,NE,0.0094,0.2237,1,1
+2559,Peru State College,,,,,22240,11632,,1092,43,Peru,NE,0.0042,0.3347,1,2
+2540,College of Saint Mary,0.5872,0.4465,,,35971,,16590,445,11,Omaha,NE,,0.0333,1,1
+2566,Wayne State College,0.4146,,,,22565,15360,,3010,32,Wayne,NE,0.003,0.203,1,1
+2567,York University,,0.5188,450,430,34268,,20951,428,33,York,NE,0.011,0.3846,1,1
+2572,Colby-Sawyer College,0.672,0.8008,,,38527,,27431,771,43,New London,NH,,0.1,,1
+2579,New England College,,0.9213,,,59350,,26972,1022,42,Henniker,NH,,0.1727,,2
+2580,Southern New Hampshire University,0.708,0.9951,,,40918,,36708,163164,22,Manchester,NH,0.0084,0.3446,1,2
+2591,Plymouth State University,,0.8754,,,29644,19216,,3153,33,Plymouth,NH,0.0028,0.2691,1,1
+2586,Rivier University,0.159,0.8259,545,510,53499,,28082,1231,13,shua,NH,,0.0993,,1
+2587,Saint Anselm College,0.7598,0.7805,570,540,67213,,34779,2087,22,Manchester,NH,0.0124,0.2635,1,1
+2589,University of New Hampshire College of Professiol Studies Online,,,,,15451,10864,,1157,12,Manchester,NH,,0.2191,,2
+30431,Thomas More College of Liberal Arts,,,,,42082,,18489,97,22,Merrimack,NH,,,,
+7502,Berkeley College-Woodland Park,,,,,44691,,27100,1778,21,Woodland Park,NJ,,0.2376,,1
+7947,Beth Medrash Govoha,,,,,,,,4027,13,Lakewood,NJ,,,,
+2617,Bloomfield College of Montclair State University,0.6,0.6974,,,42035,28014,,781,21,Bloomfield,NJ,0.0478,0.2132,1,1
+2603,Drew University,,0.6783,570,533,65301,,24280,1533,21,Madison,NJ,0.0161,0.1909,1,1
+2607,Fairleigh Dickinson University-Metropolitan Campus,0.5214,0.9071,,,50305,,15404,2627,21,Teaneck,NJ,0.0017,0.1613,1,1
+2610,Felician University,0.2484,,,,50316,,40045,1774,21,Lodi,NJ,0.0024,0.1223,1,1
+2607,Fairleigh Dickinson University-Florham Campus,0.6332,0.9519,,,54204,,22829,1990,21,Madison,NJ,0.0115,0.2286,1,1
+2613,New Jersey City University,,0.9838,,,28255,16053,,3681,11,Jersey City,NJ,0.0124,0.216,1,1
+2622,Kean University,,0.759,460,470,26949,12447,,11433,21,Union,NJ,0.0116,0.2195,1,1
+2617,Montclair State University,,0.8789,480,430,28305,15566,,18376,21,Montclair,NJ,0.0066,0.2089,1,1
+8609,Rabbinical College of America,,0.9515,,,27300,,15628,181,21,Morristown,NJ,,,,
+9344,Ramapo College of New Jersey,0.5757,0.7064,580,550,29483,18173,,4898,21,Mahwah,NJ,0.0071,0.2555,1,1
+2632,Seton Hall University,,0.7326,620,600,68263,,31446,6036,21,South Orange,NJ,0.0126,0.2263,1,1
+2639,Stevens Institute of Technology,,0.4758,670,710,79790,,41346,4222,21,Hoboken,NJ,0.0896,0.124,1,1
+11989,Talmudical Academy-New Jersey,0.4787,0.4348,,,25100,,6164,72,21,Adelphia,NJ,,,,
+21922,Thomas Edison State University,0.7138,,,,,,,6707,13,Trenton,NJ,0.0054,0.1501,2,2
+2625,William Paterson University of New Jersey,0.896,0.9008,,,28476,18745,,6614,21,Wayne,NJ,0.0048,0.1804,1,1
+2651,Eastern New Mexico University-Main Campus,,0.9166,430,400,18940,4904,,3357,33,Portales,NM,0.0073,0.0824,2,2
+21464,Institute of American Indian and Alaska tive Culture and Arts Development,0.7665,0.9747,,,24854,12570,,334,41,Santa Fe,NM,,0.0789,,
+2653,New Mexico Highlands University,0.6045,,,,20868,14838,,1451,33,Las Vegas,NM,0.0026,0.144,1,2
+2654,New Mexico Institute of Mining and Technology,,0.4449,550,530,24967,9873,,995,33,Socorro,NM,0.0493,,1,
+2663,University of New Mexico-Main Campus,,0.9518,460,430,21259,15489,,17244,11,Albuquerque,NM,0.0072,0.1399,1,1
+2650,University of the Southwest,0.4976,,,,28210,,16927,346,33,Hobbs,NM,,0.1528,,2
+2664,Western New Mexico University,0.625,,,,21562,8522,,2026,33,Silver City,NM,0.0149,0.1283,2,2
+2671,Bard College,0.7538,0.5212,650,620,84553,,34649,2414,41,Anndale-On-Hudson,NY,,,,1
+7394,Berkeley College-New York,0.84,,,,45041,,34124,1449,11,New York,NY,,0.5011,,1
+6438,Mount Sii Phillips School of Nursing,0.7638,,,,,,,311,11,New York,NY,,,,
+13029,Boricua College,0.6125,,,,24213,,15245,391,11,New York,NY,,0.1136,,1
+2681,Canisius University,,0.7236,,,44322,,17940,1685,11,Buffalo,NY,0.008,0.2016,1,1
+4776,Central Yeshiva Tomchei Tmimim Lubavitz,0.5736,0.8743,,,29697,,21437,863,11,Brooklyn,NY,,,,
+2701,Colgate University,0.4806,0.1388,710,720,87070,,28786,3180,42,Hamilton,NY,0.0096,,1,
+9769,Metropolitan College of New York,,0.9,,,34203,,28882,402,11,New York,NY,,0.3269,,1
+2710,The Cooper Union for the Advancement of Science and Art,,0.2071,653,642,64190,,13269,842,11,New York,NY,,,,
+2711,Cornell University,,0.0876,730,770,88140,,28690,15995,13,Ithaca,NY,0.0196,0.1437,1,1
+7273,CUNY Berrd M Baruch College,0.5714,0.4752,550,550,14170,3033,,16154,11,New York,NY,0.0121,0.7213,1,1
+2687,CUNY Brooklyn College,0.4677,0.5836,460,490,14151,3103,,10543,11,Brooklyn,NY,0.0111,0.2672,1,1
+2698,College of Staten Island CUNY,0.2676,0.9234,460,430,14795,5579,,9657,11,Staten Island,NY,0.0064,0.1749,1,1
+2688,CUNY City College,0.5934,0.6002,540,530,14403,3776,,12505,11,New York,NY,0.0111,0.0426,1,1
+4765,CUNY Graduate School and University Center,,0.6849,,,,,,3254,11,New York,NY,,0.0848,1,1
+2689,CUNY Hunter College,0.6667,0.538,550,550,13905,2984,,16289,11,New York,NY,0.0137,0.0395,1,1
+2693,CUNY John Jay College of Crimil Justice,,0.5711,480,450,14212,3203,,11590,11,New York,NY,0.0027,,1,
+7022,CUNY Lehman College,0.1179,0.5658,440,410,14121,3148,,10696,11,Bronx,NY,0.0107,0.1809,1,1
+10097,CUNY Medgar Evers College,0.8,0.8605,440,410,14771,5718,,3233,11,Brooklyn,NY,,0.1785,1,2
+2696,CUNY New York City College of Technology,,0.8029,460,440,14110,5127,,13580,11,Brooklyn,NY,0.0043,0.1014,1,2
+2690,CUNY Queens College,0.4906,0.6435,500,510,14367,4195,,12550,11,Queens,NY,0.0169,0.1136,1,1
+4759,CUNY York College,,0.641,410,380,14330,4456,,4345,11,Jamaica,NY,0.0096,0.152,1,1
+2808,Daemen University,,0.6826,,,45192,,18693,1643,21,Amherst,NY,0.0022,0.1571,1,1
+41196,Yeshiva of Far Rockaway Derech Ayson Rabbinical Semiry,0.5238,0.92,,,21150,,7269,60,11,Far Rockaway,NY,,,,
+2718,Elmira College,1,0.7696,568,522,52449,,22386,708,13,Elmira,NY,0.0077,0.1923,1,1
+12561,Five Towns College,0.5123,0.5382,,,42458,,22992,547,21,Dix Hills,NY,,0.2937,,1
+2728,Hamilton College,0.4219,0.1362,720,730,84230,,28985,2030,22,Clinton,NY,0.0266,,1,
+2729,Hartwick College,0.5,0.696,540,530,68614,,31320,1087,33,Oneonta,NY,0.0102,0.1684,1,1
+2735,Hilbert College,,0.972,,,42114,,22723,921,21,Hamburg,NY,,0.1172,,2
+2731,Hobart William Smith Colleges,,0.6399,610,580,82602,,31563,1786,32,Geneva,NY,0.0169,0.0084,1,1
+2732,Hofstra University,0.3916,0.6808,620,610,70624,,34176,6488,21,Hempstead,NY,0.0091,0.1936,1,1
+2734,Houghton University,0.618,0.8866,600,570,31143,,20519,753,43,Houghton,NY,0.0181,0.1265,1,2
+2737,Io University,,0.8694,570,540,60247,,29188,2951,21,New Rochelle,NY,0.0018,0.3978,1,1
+2739,Ithaca College,,0.6901,630,600,68699,,33926,4242,23,Ithaca,NY,0.0053,0.1005,1,1
+2742,The Juilliard School,0.2756,0.0915,,,83892,,43571,468,11,New York,NY,,,,
+10549,Kehilath Yakov Rabbinical Semiry,,,,,17850,,3822,205,41,Ossining,NY,,,,
+2744,Keuka College,,0.6808,,,54760,,24338,966,32,Keuka Park,NY,0.0074,0.1507,1,1
+2748,Le Moyne College,,0.8298,580,580,53183,,22277,2439,21,Syracuse,NY,0.0108,0.2694,1,1
+13026,Machzikei Hadath Rabbinical College,,1,,,30053,,16515,131,11,Brooklyn,NY,,,,
+2759,Manhattan School of Music,,0.4078,,,77703,,51754,539,11,New York,NY,,,,
+2760,Manhattanville University,,0.8734,,,53499,,20991,1362,21,Purchase,NY,0.0032,0.1133,1,1
+2765,Marist University,0.4933,0.5651,600,590,67574,,41544,5182,21,Poughkeepsie,NY,0.0053,0.2805,1,1
+2772,Mercy University,,0.8584,,,32596,,14072,5735,21,Dobbs Ferry,NY,0.0063,0.1397,1,1
+7264,Mesivta Torah Vodaath Rabbinical Semiry,0.6622,0.8,,,21810,,4876,399,11,Brooklyn,NY,,,,
+3974,Mesivtha Tifereth Jerusalem of America,,0.6,,,18560,,8290,51,11,New York,NY,,,,
+2778,Mount Saint Mary College,0.7494,0.8888,,,55014,,25522,1148,13,Newburgh,NY,0.0208,0.125,1,1
+2779,zareth University,,0.7472,530,540,58254,,29357,1873,21,Rochester,NY,0.0068,0.1126,1,1
+20662,The New School,,0.6347,,,88284,,58741,6563,11,New York,NY,,0.018,,1
+2788,Niagara University,0.1429,0.8737,530,530,51632,,17248,2653,21,Niagara University,NY,0.0028,0.1872,1,1
+2782,New York Institute of Technology,0.7953,0.8102,590,600,56976,,22443,3440,41,Old Westbury,NY,0.0018,0.0553,1,1
+2791,Pace University,0.5532,0.7592,600,580,69550,,30892,7665,11,New York,NY,0.0035,0.1957,1,1
+2795,Paul Smiths College of Arts and Science,,0.7653,,,51506,,26683,579,42,Paul Smiths,NY,,0.0657,,1
+21691,Davis College,0.4274,0.5625,,,24830,,12875,106,42,Pottersville,NY,,,,
+3976,Rabbinical Academy Mesivta Rabbi Chaim Berlin,0.5793,0.9362,,,20400,,6415,141,11,Brooklyn,NY,,,,
+8614,Rabbinical College Bobover Yeshiva Bnei Zion,0.5791,,,,20075,,9136,473,11,Brooklyn,NY,,,,
+8617,Rabbinical Semiry Mkor Chaim,,0.9063,,,17750,,9494,96,21,Lakewood,NJ,,,,
+3978,Rabbinical Semiry of America,0.9426,0.9845,,,19700,,4844,397,11,Flushing,NY,,,,
+2803,Rensselaer Polytechnic Institute,0.6439,0.6347,670,705,82404,,36228,5714,13,Troy,NY,0.0433,0.0593,1,1
+2894,University of Rochester,0.5549,0.4008,680,730,85962,,29278,6331,12,Rochester,NY,0.0619,0.096,1,1
+2810,Russell Sage College,0.623,0.5326,,,50607,,22917,1244,13,Troy,NY,,0.1158,,1
+2829,St Lawrence University,0.6929,0.5434,645,610,82000,,28651,1918,33,Canton,NY,0.0428,0.0326,1,1
+2813,Sarah Lawrence College,,0.6173,650,590,82467,,41437,1530,21,Bronxville,NY,,,,
+25059,Sh'or Yoshuv Rabbinical College,,,,,,,,156,21,Lawrence,NY,,,,
+2816,Sie College,0.3421,0.6902,550,560,64870,,33733,3409,21,Loudonville,NY,0.0049,0.2628,1,1
+2823,St. John's University-New York,,0.8343,580,570,65527,,29999,9477,11,Queens,NY,0.0055,0.2764,1,1
+2855,SUNY College of Technology at Canton,0.5824,0.9215,,,24906,15268,,2741,33,Canton,NY,,0.1024,,2
+2857,SUNY College of Technology at Delhi,0.5708,0.8901,450,460,26944,17225,,2843,43,Delhi,NY,,0.137,,1
+2856,SUNY College of Agriculture and Technology at Cobleskill,0.4796,0.8402,,,27786,18701,,1904,32,Cobleskill,NY,,0.1128,,1
+2858,Farmingdale State College,0.4111,0.6329,520,520,18966,10867,,9552,21,Farmingdale,NY,0.0046,0.1804,1,1
+2835,University at Albany,0.4841,0.691,,,28802,17167,,12564,12,Albany,NY,0.012,0.1534,1,1
+2837,University at Buffalo,0.2762,0.7418,600,610,30785,20995,,20112,21,Buffalo,NY,0.0211,0.1655,1,1
+2851,SUNY College of Environmental Science and Forestry,0.5125,0.6328,,,28133,18952,,1839,12,Syracuse,NY,,0.0295,,1
+11678,SUNY Polytechnic Institute,0.3295,0.8135,505,520,23741,14164,,1849,22,Utica,NY,0.0131,0.1965,1,2
+2842,SUNY Buffalo State University,0.4667,0.7295,490,490,24279,11346,,5097,11,Buffalo,NY,0.0046,0.134,1,1
+2843,State University of New York at Cortland,0.7,0.5979,,,28108,22345,,5901,32,Cortland,NY,0.0049,0.0648,1,1
+2844,SUNY at Fredonia,,0.777,590,570,25879,15897,,2755,32,Fredonia,NY,0.0152,0.0818,1,1
+2845,SUNY College at Geneseo,0.5041,0.6645,600,590,27709,18211,,3869,32,Geneseo,NY,0.0249,0.1659,1,1
+2847,SUNY Oneonta,,0.696,570,550,28821,19158,,4643,33,Oneonta,NY,0.0083,0.1228,1,1
+2848,State University of New York at Oswego,0.6489,0.8055,530,540,27052,16236,,5473,32,Oswego,NY,0.0042,0.2336,1,2
+2850,SUNY College at Potsdam,0.8336,0.777,,,25083,13624,,1823,33,Potsdam,NY,0.0205,0.1025,1,1
+6791,SUNY at Purchase College,0.5714,0.7405,620,565,29043,18913,,3197,21,Purchase,NY,0.0115,,1,
+2849,State University of New York at Plattsburgh,,0.7841,540,540,28244,17156,,3769,32,Plattsburgh,NY,0.0057,0.2664,1,1
+2839,SUNY Downstate Health Sciences University,,,,,,,,293,11,Brooklyn,NY,,,,
+10286,Empire State University,0.5774,,,,19699,11676,,7585,23,Saratoga Springs,NY,,0.3252,,2
+2840,Upstate Medical University,0.5952,,,,,,,159,12,Syracuse,NY,,,,
+12011,Talmudical Semiry Oholei Torah,,0.7719,,,20353,,10755,400,11,Brooklyn,NY,,,,
+25506,Talmudical Institute of Upstate New York,0.4212,1,,,16850,,7299,13,12,Rochester,NY,,,,
+21916,Torah Temimah Talmudical Semiry,,0.5556,,,34000,,24475,82,11,Staten Island,NY,,,,
+10142,Touro University,0.6612,0.6083,630,588,40500,,29627,4040,11,New York,NY,0.0101,0.1056,1,1
+2834,Excelsior University,,,,,,,,11550,12,Albany,NY,,0.1044,,2
+2889,Union College,0.25,0.4392,660,650,84561,,34561,2046,13,Schenectady,NY,0.0199,0.0331,1,1
+11189,United Talmudical Semiry,,,,,22754,,6640,2241,11,Brooklyn,NY,,,,
+2892,United States Merchant Marine Academy,0.5226,0.3424,560,550,9168,6174,,962,21,Kings Point,NY,,,,
+2883,Utica University,,0.9195,480,510,37205,,19108,2278,13,Utica,NY,0.007,0.0698,1,1
+2896,Villa Maria College,0.5215,0.8659,,,36335,,13494,603,13,Buffalo,NY,,0.1333,,1
+2899,Wagner College,,0.88,600,590,65574,,28241,1651,11,Staten Island,NY,,0.162,1,1
+5208,The College of Westchester,0.5221,0.9442,,,31660,,16296,759,13,White Plains,NY,,0.3891,,1
+25058,Yeshiva Karlin Stolin,0.5051,,,,18612,,6393,139,11,Brooklyn,NY,,,,
+11670,Yeshiva of Nitra Rabbinical College,0.4086,,,,23300,,10880,243,41,Chester,NY,,,,
+21520,Yeshivath Shaar Hatorah,0.3214,0.7222,,,22150,,8850,76,11,Kew Gardens,NY,,,,
+13027,Yeshivath Viznitz,0.41,,,,20397,,8929,1159,21,Monsey,NY,,,,
+2908,Barton College,0.5351,0.942,,,51935,,23626,982,31,Wilson,NC,0.0042,0.1458,1,1
+2910,Belmont Abbey College,,0.7465,490,470,34788,,24639,1276,22,Belmont,NC,0.0134,0.2776,1,1
+2911,Bennett College,0.3451,0.5066,410,410,41296,,28299,178,11,Greensboro,NC,0.0238,0.0952,1,1
+2912,Brevard College,0.6006,0.4216,440,430,47288,,23509,815,32,Brevard,NC,0.012,0.2349,1,1
+2931,Guilford College,,0.8,550,570,55689,,22270,1001,11,Greensboro,NC,0.0051,0.1179,1,1
+30893,Heritage Bible College,0.4371,,,,24868,,18684,22,41,Dunn,NC,,,,
+2936,Johnson C Smith University,,0.4521,,,34923,,20894,1244,11,Charlotte,NC,0.0048,0.2222,1,1
+2939,Lees-McRae College,0.5749,0.7678,,,49498,,28340,873,42,Banner Elk,NC,,0.1031,,2
+2944,Mars Hill University,,0.679,,,50099,,19910,1044,41,Mars Hill,NC,,0.216,1,1
+2945,Meredith College,0.7048,0.7418,588,510,57313,,22488,1188,11,Raleigh,NC,0.0271,0.1536,1,1
+2948,Montreat College,0.5332,0.692,,,47133,,27061,762,21,Montreat,NC,,0.2016,,2
+2949,University of Mount Olive,0.4722,0.7575,,,38569,,18853,1796,42,Mount Olive,NC,0.0021,0.2201,1,2
+2951,North Caroli Wesleyan University,0.5357,0.8023,,,49974,,17432,1214,13,Rocky Mount,NC,0.0067,0.3733,1,1
+2953,William Peace University,,0.9425,545,535,49362,,21649,666,11,Raleigh,NC,,0.2353,,1
+2955,Pfeiffer University,,0.9603,,,45542,,19076,655,41,Misenheimer,NC,0.0065,0.098,1,1
+2957,Queens University of Charlotte,,0.6208,560,580,65742,,30857,1211,11,Charlotte,NC,0.0061,0.1848,1,1
+2960,Salem College,0.719,0.7667,553,513,48532,,18277,423,11,Winston-Salem,NC,,0.1184,1,1
+2962,Shaw University,,0.8016,,,30861,,16512,875,11,Raleigh,NC,,0.2344,,1
+1540,St. Andrews University,,,,,50681,,32513,628,32,Laurinburg,NC,,0.3667,,2
+2963,Southeastern Baptist Theological Semiry,,0.7463,540,460,22632,,13090,585,21,Wake Forest,NC,,,,1
+2978,Wake Forest University,0.2222,0.2167,700,710,87499,,28719,5485,11,Winston-Salem,NC,0.0247,0.2236,1,1
+2979,Warren Wilson College,,0.7134,,,56966,,21249,707,41,Swannoa,NC,0.0128,0.0705,1,1
+6483,Watts College of Nursing,0.6133,,,,,,,124,11,Durham,NC,,,,
+35703,Caroli Christian College,,,,,28817,,22366,52,11,Winston Salem,NC,,,,
+2989,Dickinson State University,,0.3702,,,20567,14092,,1090,33,Dickinson,ND,,0.3284,2,2
+2990,University of Jamestown,0.8688,0.8808,,,38013,,19567,1041,33,Jamestown,ND,,0.2286,,2
+2993,Mayville State University,,,,,20657,11456,,733,43,Mayville,ND,0.045,0.155,1,1
+2994,Minot State University,,0.6462,500,430,19339,12703,,2062,13,Minot,ND,0.0022,0.1699,1,1
+3005,University of North Dakota,0.8585,0.769,,,25605,18551,,9981,13,Grand Forks,ND,0.0048,0.1236,1,2
+3123,University of Akron Main Campus,0.1463,0.5967,460,440,26284,13946,,9052,12,Akron,OH,0.0067,0.1169,1,1
+3123,University of Akron Wayne College,0.2618,0.8992,440,390,15993,6032,,457,41,Orrville,OH,,0.0526,,1
+34573,Allegheny Wesleyan College,,,,,14612,,5355,46,41,Salem,OH,,,,
+3012,Ashland University,0.5705,0.764,505,530,43434,,21988,2199,31,Ashland,OH,0.0019,0.1651,1,1
+6487,Aultman College of Nursing and Health Sciences,,0.4588,,,28979,,24204,280,13,Canton,OH,,,,
+3014,Baldwin Wallace University,,0.757,550,510,55606,,27603,2842,21,Berea,OH,0.0048,0.1726,1,1
+3018,Bowling Green State University-Main Campus,0.2866,0.8096,500,500,33007,24022,,12812,31,Bowling Green,OH,0.0081,0.1424,1,1
+3026,Central State University,,0.9861,,,21929,13096,,2620,41,Wilberforce,OH,0.0009,0.3048,1,2
+6489,The Christ College of Nursing and Health Sciences,0.3223,0.5894,,,28094,,18378,713,11,Cincinti,OH,,,,
+10906,Cincinti College of Mortuary Science,0.3919,,,,,,,107,21,Cincinti,OH,,,,
+3030,Ohio Christian University,0.6754,0.3797,,,35017,,20607,862,41,Circleville,OH,,0.2323,,2
+3031,Cleveland Institute of Music,,0.4731,,,61212,,28226,159,11,Cleveland,OH,,,,
+3039,Columbus College of Art & Design,,0.6766,,,54443,,29439,882,11,Columbus,OH,,,,
+3041,Defiance College,,0.4755,,,53667,,26337,499,32,Defiance,OH,0.0089,0.1518,1,1
+3042,Denison University,,0.1739,660,660,81900,,40007,2380,23,Granville,OH,0.0238,0.0832,1,1
+3046,Franklin University,0.6756,,,,30696,,25243,5562,11,Columbus,OH,,0.5687,,2
+3048,Heidelberg University,0.806,0.8579,,,47025,,20556,915,32,Tiffin,OH,,0.1792,1,1
+7035,Kettering College,,0.7654,,,32839,,21650,549,13,Kettering,OH,,,,
+3072,Malone University,0.4,0.7586,470,460,49754,,20948,798,13,Canton,OH,0.0058,0.193,1,2
+3073,Marietta College,0.961,0.7931,510,530,53709,,21083,952,31,Marietta,OH,,0.1845,1,1
+30970,Mercy College of Ohio,,0.9322,410,380,30260,,17989,939,11,Toledo,OH,,,,
+3077,Miami University-Hamilton,0.9538,,,,15352,11286,,2043,21,Hamilton,OH,,0.2342,,2
+3077,Miami University-Middletown,,,,,14890,10809,,837,23,Middletown,OH,,0.2994,,2
+3077,Miami University-Oxford,,0.754,610,610,38757,28384,,16656,31,Oxford,OH,0.023,0.2747,1,1
+30719,Mount Carmel College of Nursing,0.7212,0.8429,,,21446,,10420,532,11,Columbus,OH,,,,
+3083,University of Mount Union,,0.782,460,450,49276,,23280,1995,31,Alliance,OH,0.0107,0.1903,1,1
+7085,Mount Vernon zarene University,,0.8415,528,518,49858,,22421,1358,32,Mount Vernon,OH,0.0108,0.2231,1,2
+3033,Mount St. Joseph University,0.5386,0.5912,470,460,46719,,16530,1129,21,Cincinti,OH,,0.2069,1,1
+3090,Ohio State University-Lima Campus,0.2147,,,,19487,12940,,621,41,Lima,OH,,0.0571,,1
+3100,Ohio University-Eastern Campus,0.2,,,,10777,3925,,298,41,Saint Clairsville,OH,,0.0833,1,1
+3100,Ohio University-Chillicothe Campus,0.5251,,,,11356,5755,,833,32,Chillicothe,OH,,0.1371,1,1
+3100,Ohio University-Zanesville Campus,0.6471,,,,11041,5746,,560,32,Zanesville,OH,,0.0463,1,1
+3109,Ohio Wesleyan University,,0.556,,,68424,,20897,1516,21,Delaware,OH,0.0033,0.1551,1,1
+3113,Pontifical College Josephinum,,0.9583,,,,,,60,11,Columbus,OH,,,,
+3115,Rabbinical College Telshe,,0.8333,,,25000,,10398,50,21,Wickliffe,OH,,,,
+9942,Shawnee State University,0.6522,,,,21974,14381,,2247,32,Portsmouth,OH,0.0132,0.1321,1,1
+3036,Franciscan University of Steubenville,,0.5836,590,520,44580,,23589,2901,13,Steubenville,OH,0.0195,0.1737,1,2
+3121,Tiffin University,,0.8005,470,440,48004,,26500,2051,32,Tiffin,OH,,0.3089,1,2
+3135,Walsh University,0.7313,0.7074,510,530,47575,,20493,1390,21,North Canton,OH,,0.2062,,2
+3142,Wilmington College,,0.924,450,400,43431,,24153,1006,32,Wilmington,OH,0.0046,0.1797,1,2
+3143,Wittenberg University,,0.7235,500,480,57799,,18649,1215,13,Springfield,OH,0.0256,0.2015,1,1
+3145,Youngstown State University,0.6371,0.8445,510,500,21708,12767,,7961,13,Youngstown,OH,0.0115,0.1847,1,1
+3149,Southern zarene University,0.7832,,,,46465,,22084,1455,21,Bethany,OK,,0.4031,1,1
+3150,Cameron University,0.3,,,,19862,10912,,2492,13,Lawton,OK,0.0015,0.2143,1,2
+3152,University of Central Oklahoma,0.4904,0.7812,,,26392,18309,,10170,21,Edmond,OK,0.004,0.1681,1,2
+3154,East Central University,,0.5815,460,440,18459,8683,,2467,33,Ada,OK,0.0089,0.1574,1,1
+10266,Randall University,,0.5786,,,26126,,16383,267,21,Moore,OK,,0.1695,,1
+3157,Langston University,0.7273,,,,21394,11504,,1742,42,Langston,OK,,0.0649,1,2
+3161,Northeastern State University,0.6993,0.9959,438,428,21551,12710,,4772,33,Tahlequah,OK,0.0043,0.1735,1,2
+3163,Northwestern Oklahoma State University,0.6546,0.6545,420,383,18672,10104,,1498,33,Alva,OK,0.006,0.2402,1,1
+3184,University of Oklahoma-Health Sciences Center,0.5683,,,,,,,1214,11,Oklahoma City,OK,,,,
+3174,Oklahoma Panhandle State University,,,,,15055,7413,,917,42,Goodwell,OK,0.0031,0.1398,1,2
+3170,Oklahoma State University-Main Campus,,0.7504,530,510,28290,17447,,21773,32,Stillwater,OK,0.0081,0.282,1,2
+3164,Oklahoma Baptist University,,0.4941,540,530,48695,,20958,1308,32,Shawnee,OK,0.0103,0.0993,1,1
+3184,University of Oklahoma-Norman Campus,,0.766,580,560,28872,15300,,22734,22,Norman,OK,0.0076,0.2533,1,1
+3985,Oral Roberts University,,0.989,580,540,50004,,25365,3487,11,Tulsa,OK,0.006,0.2006,1,2
+3168,Rogers State University,,,,,21064,15314,,2657,31,Claremore,OK,,0.2443,,2
+3167,University of Science and Arts of Oklahoma,0.7451,0.6582,580,510,20662,6624,,941,32,Chickasha,OK,0.0143,0.1857,1,1
+3179,Southeastern Oklahoma State University,,0.7643,490,490,18594,8039,,3018,32,Durant,OK,0.0062,0.2142,1,2
+3181,Southwestern Oklahoma State University,0.5877,,,,23334,14459,,3514,33,Weatherford,OK,0.001,0.1194,1,2
+3185,University of Tulsa,,0.6151,610,613,64459,,15000,2813,11,Tulsa,OK,0.0188,0.1524,1,1
+21597,New Hope Christian College-Eugene,0.2273,0.8,,,30849,,21600,56,12,Eugene,OR,,,,
+3197,Lewis & Clark College,0.6667,0.7849,,,79987,,36013,2120,11,Portland,OR,0.0206,,1,
+3203,Mount Angel Semiry,,1,,,,,,38,41,Saint Benedict,OR,,,,
+25340,tiol University of tural Medicine,,,,,,,,41,11,Portland,OR,,,,
+4882,Oregon Health & Science University,0.6673,,,,,,,836,11,Portland,OR,,,,
+3223,University of Oregon,0.5464,0.883,580,550,34793,22182,,20497,12,Eugene,OR,0.0063,0.1684,1,1
+3207,Pacific Northwest College of Art,,0.7485,,,70376,,35785,420,11,Portland,OR,,,,
+3212,Pacific University,0.7906,0.8956,480,420,72374,,35273,1516,21,Forest Grove,OR,0.0133,0.1088,1,1
+3224,University of Portland,0.8257,0.8917,580,580,73224,,28210,2957,11,Portland,OR,0.0079,0.1497,1,1
+3219,Southern Oregon University,,0.8862,,,27636,16732,,2751,22,Ashland,OR,0.0095,0.1025,1,1
+3225,Warner Pacific University,0.6609,0.7114,,,38948,,25629,375,11,Portland,OR,,0.1382,,1
+12309,University of Western States,0.5506,,,,,,,,11,Portland,OR,,,,
+3229,Albright College,0.4543,0.7633,,,43711,,20024,1217,13,Reading,PA,0.0073,0.2674,1,1
+3230,Allegheny College,0.2808,0.5457,610,563,71348,,22940,1156,32,Meadville,PA,0.0374,0.0782,1,1
+3244,Chatham University,0.716,0.6196,550,520,61261,,29954,1232,11,Pittsburgh,PA,0.0202,0.0931,1,1
+3317,Cheyney University of Pennsylvania,0.6881,,,,26782,14265,,617,41,Cheyney,PA,0.0104,0.125,1,2
+3251,Curtis Institute of Music,0.6277,0.0458,,,,,,109,11,Philadelphia,PA,,,,
+3253,Dickinson College,0.4457,0.4209,670,640,82902,,37607,2273,13,Carlisle,PA,0.0152,0.1065,1,1
+3256,Drexel University,,0.7944,620,620,76835,,38509,13233,11,Philadelphia,PA,0.0053,0.1573,1,1
+3258,Duquesne University,0.4123,0.8356,600,580,67776,,37730,5350,11,Pittsburgh,PA,0.052,0.1345,2,2
+3259,Eastern University,0.6439,0.9077,,,55001,,26662,2404,21,Saint Davids,PA,0.0082,0.1335,1,1
+3262,Elizabethtown College,,0.7787,560,545,50865,,26598,1868,21,Elizabethtown,PA,0.0099,0.2525,1,2
+3265,Franklin and Marshall College,0.8039,0.2819,660,650,85776,,36425,1799,13,Lancaster,PA,0.0447,0.1498,1,1
+3266,Gannon University,,0.7416,,,52869,,22553,2365,13,Erie,PA,0.0121,0.1569,1,1
+3268,Gettysburg College,0.5813,0.389,640,630,81960,,31490,2099,31,Gettysburg,PA,0.0108,0.1426,1,1
+4058,Gratz College,0.8706,,,,,,,143,21,Melrose Park,PA,,,,
+3269,Grove City College,0.5624,0.7232,583,558,,,,2216,32,Grove City,PA,0.0041,0.2284,1,1
+3279,Juniata College,,0.7891,570,560,71850,,23988,1191,32,Huntingdon,PA,0.0108,0.1763,1,1
+3282,King's College,,0.9311,540,530,57973,,23093,1484,13,Wilkes-Barre,PA,,0.2651,1,1
+3287,La Salle University,0.2286,0.9659,,,48337,,19409,1953,11,Philadelphia,PA,0.0035,0.2128,1,1
+3285,Lancaster Bible College,0.1132,0.5589,530,540,44066,,25480,1569,21,Lancaster,PA,,0.1747,,2
+3288,Lebanon Valley College,,0.8377,580,560,66497,,26979,1684,23,Annville,PA,0.0078,0.1714,1,1
+3289,Lehigh University,,0.2593,680,690,80856,,36931,5898,13,Bethlehem,PA,0.0144,0.2727,1,1
+3290,Lincoln University,0.4668,0.6572,420,400,28505,14977,,1539,21,Lincoln University,PA,0.0032,0.1514,1,1
+3297,Mercyhurst University,0.7143,0.8102,,,59557,,19444,2191,13,Erie,PA,0.0017,0.1655,1,1
+3247,Misericordia University,0.6096,0.7093,,,53648,,37485,1672,21,Dallas,PA,0.0178,0.1094,1,1
+3300,Moore College of Art and Design,,0.5646,620,560,71327,,43086,535,11,Philadelphia,PA,,,,
+3302,Mount Aloysius College,0.4729,0.8205,473,445,40435,,22344,1094,31,Cresson,PA,,0.0757,,1
+3304,Muhlenberg College,,0.7199,640,610,77270,,28905,1727,12,Allentown,PA,0.0118,0.2078,1,1
+3309,Peirce College,0.9107,,,,18660,,12148,799,11,Philadelphia,PA,,0.3057,,2
+21073,Pennsylvania Academy of the Fine Arts,0.6262,,,,66106,,42454,23,11,Philadelphia,PA,,,,
+22699,Pennsylvania College of Art and Design,0.8404,0.9924,,,43815,,30083,400,13,Lancaster,PA,,,,
+3367,Saint Joseph's University - Philadelphia,0.737,0.8883,590,580,67954,,29689,4948,11,Philadelphia,PA,0.0019,0.4098,1,1
+3384,University of Scranton,0.3429,0.8123,590,570,69552,,32568,3554,13,Scranton,PA,0.0116,0.2468,1,1
+3362,Seton Hill University,,0.7953,510,510,56183,,22204,1492,21,Greensburg,PA,0.012,0.1855,1,2
+3364,Saint Charles Borromeo Semiry-Overbrook,0.4778,1,,,,,,38,21,Ambler,PA,,,,
+3369,Susquehan University,,0.8143,560,540,75410,,28819,2163,32,Selinsgrove,PA,0.0171,0.2952,1,1
+12523,Talmudical Yeshiva of Philadelphia,,0.9024,,,22680,,11008,112,11,Philadelphia,PA,,,,
+3371,Temple University,0.7007,0.8041,,,40903,28198,,20970,11,Philadelphia,PA,0.0082,0.2065,1,2
+3376,Thiel College,0.0524,0.7155,,,53202,,22347,788,32,Greenville,PA,0.0202,0.1869,1,1
+12393,Thomas Jefferson University,,0.8097,580,580,64197,,28928,3755,11,Philadelphia,PA,,0.0814,,1
+3385,Ursinus College,,0.9177,610,590,76815,,30536,1491,21,Collegeville,PA,0.0234,0.0789,1,1
+3306,University of Valley Forge,0.5718,0.612,,,45422,,32265,471,21,Phoenixville,PA,,0.0732,,1
+3389,Washington & Jefferson College,0.6897,0.8064,,,42972,,25002,1295,21,Washington,PA,0.0139,0.2917,1,1
+3313,Widener University,0.4197,0.7093,550,530,70621,,25759,2951,21,Chester,PA,,0.1704,1,1
+3402,Bryant University,0.4354,0.6546,610,580,69964,,41219,3194,21,Smithfield,RI,0.0473,0.791,1,1
+3404,Johnson & Wales University-Providence,0.3497,0.8841,460,430,60314,,31027,3868,12,Providence,RI,,0.2251,,1
+3406,Providence College,0.6131,0.5089,630,620,80466,,48523,4229,12,Providence,RI,0.0063,0.4426,1,1
+3410,Roger Williams University,,0.8771,580,560,61950,,37999,3946,21,Bristol,RI,0.0054,0.2167,1,1
+3411,Salve Regi University,0.2075,0.6817,600,560,70630,,36967,2121,21,Newport,RI,0.0059,0.2376,1,1
+35705,Northpoint Bible College,,,,,29902,,23635,86,21,Haverhill,MA,,,,
+3417,Allen University,,0.7254,,,23998,,10972,576,12,Columbia,SC,0.046,0.1609,1,1
+3419,Charleston Southern University,0.25,0.9646,480,450,44558,,21666,2893,12,Charleston,SC,0.002,0.1784,1,2
+3420,Benedict College,,0.957,,,32000,,18250,1536,12,Columbia,SC,,0.179,1,1
+3422,Southern Wesleyan University,,0.9953,530,510,39914,,15464,747,22,Central,SC,,0.2893,1,2
+3428,College of Charleston,,0.6003,590,550,32362,18960,,10558,12,Charleston,SC,0.0043,0.2397,1,1
+3424,Claflin University,,0.6493,,,33530,,17800,1706,32,Orangeburg,SC,,0.1596,1,1
+3425,Clemson University,,0.3834,620,620,35015,22253,,23300,22,Clemson,SC,0.0063,0.2477,1,1
+4923,Clinton College,,,,,25015,,11458,126,13,Rock Hill,SC,,0.45,,2
+3427,Coker University,0.5806,0.9396,,,45805,,20286,840,32,Hartsville,SC,,0.2807,1,1
+3430,Columbia College,,0.9393,,,35258,,18408,1343,12,Columbia,SC,0.004,0.1492,1,2
+3431,Converse University,,0.6774,510,500,38838,,23283,1173,13,Spartanburg,SC,0.0064,0.2244,1,1
+9226,Francis Marion University,0.8915,0.8639,450,420,23850,11386,,2628,41,Florence,SC,0.0165,0.2,1,1
+3434,Furman University,,0.4295,650,610,76798,,30308,2379,21,Greenville,SC,0.0263,0.1111,1,1
+3436,Limestone University,,0.9726,,,40671,,19588,1482,32,Gaffney,SC,,0.3587,1,2
+3438,Medical University of South Caroli,,,,,,,,303,12,Charleston,SC,,,,
+3439,Morris College,0.1538,,,,30148,,20555,383,13,Sumter,SC,,0.36,1,1
+3440,Newberry College,,0.8979,,,46442,,21656,1479,32,Newberry,SC,0.0043,0.1845,1,1
+3449,University of South Caroli Aiken,0.2857,0.7854,510,470,21540,11641,,2962,21,Aiken,SC,0.0016,0.2154,1,1
+3450,University of South Caroli Beaufort,0.4724,0.725,,,24353,14656,,2052,31,Bluffton,SC,0.0026,0.1958,1,2
+3448,University of South Caroli-Columbia,0.506,0.6015,600,580,31638,22811,,29820,12,Columbia,SC,0.0089,0.2533,1,2
+3451,Coastal Caroli University,,0.7527,530,520,26692,13966,,10377,13,Conway,SC,0.0044,0.2316,1,1
+3446,South Caroli State University,0.666,0.8262,,,30015,18097,,2934,32,Orangeburg,SC,0.0037,0.1343,1,1
+3455,Voorhees University,0.6389,,,,25574,,13335,440,43,Denmark,SC,,0.2069,,2
+3456,Winthrop University,0.2162,0.7925,520,490,30710,15343,,3523,13,Rock Hill,SC,0.0025,0.2192,1,1
+3458,Augusta University,0.4341,0.6775,570,580,55159,,23894,1965,12,Sioux Falls,SD,0.0085,0.1538,1,1
+3463,Dakota State University,0.5333,0.8805,570,620,25753,21057,,2071,32,Madison,SD,0.0147,0.0545,1,2
+3465,Mount Marty University,0.5186,0.4257,,,48247,,22227,697,33,Yankton,SD,,0.2134,1,1
+4057,tiol American University-Rapid City,0.1852,,,,34452,,31062,764,13,Rapid City,SD,,0.4293,,2
+4056,Kairos University,0.4615,0.8462,,,,,,82,12,Sioux Falls,SD,,0.5172,,2
+3466,Northern State University,,0.93,490,490,22077,15812,,1273,33,Aberdeen,SD,,0.2179,1,2
+3470,South Dakota School of Mines and Technology,0.6063,0.7987,560,580,25385,20183,,2071,13,Rapid City,SD,0.0167,,1,
+3471,South Dakota State University,,0.9834,530,530,24636,19841,,9198,33,Brookings,SD,0.0129,0.0992,1,1
+3469,University of Sioux Falls,,0.8289,,,34274,,21383,1218,12,Sioux Falls,SD,,0.2327,1,1
+10460,American Baptist College,0.6373,,,,27044,,9216,46,11,shville,TN,,0.4545,,1
+3478,Austin Peay State University,,0.9641,445,398,22233,9735,,7560,12,Clarksville,TN,0.0029,0.0874,1,1
+3479,Belmont University,,0.9528,600,560,62570,,33147,7137,11,shville,TN,0.0037,0.0975,1,1
+3481,Carson-Newman University,0.6027,0.9045,500,455,49024,,20251,1387,23,Jefferson City,TN,,0.1818,1,1
+3482,Christian Brothers University,0.7253,0.867,460,560,48038,,9854,905,11,Memphis,TN,0.0038,0.2567,1,1
+3486,Lipscomb University,,0.6773,590,570,55117,,24739,2997,11,shville,TN,0.0137,0.1879,1,2
+3487,East Tennessee State University,0.2374,0.8619,510,470,27042,15983,,10004,13,Johnson City,TN,0.0046,0.124,1,1
+30018,Welch College,0.5771,,,,37072,,25263,226,21,Gallatin,TN,,0.2449,,1
+3492,Freed-Hardeman University,0.7213,0.5968,481,471,38315,,21574,1212,32,Henderson,TN,0.0093,0.1296,1,1
+3496,King University,0.8018,0.9972,,,49004,,22347,908,13,Bristol,TN,0.0151,0.2236,1,2
+3499,Lane College,0.789,,,,23441,,10904,736,13,Jackson,TN,,0.2673,1,1
+3501,Le Moyne-Owen College,0.3801,0.9923,,,19001,,7099,581,11,Memphis,TN,,0.3542,1,1
+3500,Lee University,,0.7052,540,500,35688,,18878,2617,13,Cleveland,TN,0.0042,0.1525,1,1
+3502,Lincoln Memorial University,0.5786,0.6259,510,490,41530,,20406,1572,32,Harrogate,TN,0.0054,0.0924,1,1
+3504,The University of Tennessee Southern,,0.8671,435,470,24750,12798,,864,32,Pulaski,TN,,0.2792,1,1
+3505,Maryville College,0.4048,0.6092,,,54622,,19360,1005,21,Maryville,TN,0.0284,0.1801,1,1
+3510,Middle Tennessee State University,0.5198,0.6909,520,490,24289,13359,,16301,12,Murfreesboro,TN,0.0043,0.1814,1,2
+3519,Rhodes College,0.3672,0.5035,650,650,71136,,28585,1836,11,Memphis,TN,0.0233,0.1235,1,1
+3534,The University of the South,0.6372,0.569,640,620,71986,,27872,1607,42,Sewanee,TN,0.0299,0.0499,1,1
+3518,Southern Adventist University,0.4697,0.655,530,490,38618,,24345,2773,21,Collegedale,TN,0.0112,0.1301,1,1
+3525,Tennessee Wesleyan University,,0.6885,,,39440,,14836,846,32,Athens,TN,0.012,0.2048,1,1
+3529,The University of Tennessee-Chattanooga,0.3094,0.8109,513,500,25489,14265,,10074,12,Chattanooga,TN,0.0084,0.2074,1,1
+3530,The University of Tennessee-Knoxville,0.3246,0.416,600,600,33678,18976,,30418,12,Knoxville,TN,0.0071,0.2825,1,1
+3531,The University of Tennessee-Martin,0.4498,0.882,500,470,23079,10701,,4866,33,Martin,TN,0.002,0.1556,1,2
+3522,Tennessee State University,0.3062,0.7011,460,420,25637,15796,,4848,11,shville,TN,0.0014,0.1819,1,1
+3523,Tennessee Technological University,,0.7613,528,520,25663,14246,,8698,33,Cookeville,TN,0.0032,0.1698,1,1
+3526,Trevecca zarene University,0.5581,0.6944,510,470,41548,,16813,1737,11,shville,TN,0.005,0.335,1,1
+3527,Tusculum University,0.2494,0.7217,,,43776,,21131,785,32,Greeneville,TN,0.0042,0.2803,1,1
+3528,Union University,0.3175,0.6041,600,560,58363,,27171,1607,13,Jackson,TN,0.0022,0.1608,1,1
+22594,Amberton University,0.6811,,,,,,,114,21,Garland,TX,,0.4091,,2
+20814,Arlington Baptist University,0.4648,,,,33424,,24906,284,11,Arlington,TX,,0.6154,,1
+23312,Baptist Missiory Association Theological Semiry,,0.2857,,,,,,39,32,Jacksonville,TX,,,,
+3560,Dallas Baptist University,,0.8884,490,470,52716,,28516,2403,11,Dallas,TX,0.0098,0.2871,1,2
+3564,East Texas Baptist University,0.1439,0.5776,,,44211,,23911,1352,32,Marshall,TX,,0.2,1,2
+3565,East Texas A&M University,0.2103,0.9224,480,430,23438,11841,,9912,32,Commerce,TX,0.0028,0.1197,1,1
+10509,Hallmark University,,0.5134,,,,,12513,769,11,San Antonio,TX,,0.1185,,1
+3576,Houston Christian University,,0.8444,500,490,50082,,20629,2886,11,Houston,TX,0.0056,0.1874,1,2
+11711,University of Houston-Clear Lake,0.5263,0.9052,490,480,24622,15563,,6078,12,Houston,TX,0.0122,0.2259,1,1
+3612,University of Houston-Downtown,,0.8996,480,460,20749,10542,,12555,11,Houston,TX,0.0041,0.3644,1,2
+13231,University of Houston-Victoria,0.3602,0.959,,,21401,8109,,2513,13,Victoria,TX,0.0052,0.3042,1,1
+3652,University of Houston,0.6905,0.7392,590,570,26185,14276,,38380,11,Houston,TX,0.0085,0.2805,1,1
+3575,Howard Payne University,0.4111,0.6737,440,440,46766,,23627,713,33,Brownwood,TX,0.0165,0.157,1,1
+3577,Huston-Tillotson University,,0.3909,430,370,25384,,19719,1005,11,Austin,TX,0.0057,0.25,1,1
+3578,University of the Incarte Word,,0.9814,,,48681,,22775,4440,11,San Antonio,TX,0.0099,0.2785,1,1
+3637,Jarvis Christian University,,,,,25185,,9825,577,42,Hawkins,TX,,0.1985,1,1
+3581,Lamar University,0.3987,0.8641,480,450,22254,9366,,8150,12,Beaumont,TX,0.0117,0.1641,1,2
+10130,Wade College,0.4727,,,,25506,,20778,252,11,Dallas,TX,,0.1406,,1
+3594,University of North Texas,0.4091,0.7223,500,480,26243,15649,,34341,12,Denton,TX,0.0061,0.1982,1,2
+3598,Our Lady of the Lake University,,,,,42865,,16442,1066,11,San Antonio,TX,0.0108,0.1183,1,2
+3606,Sam Houston State University,,0.9026,480,450,25505,16404,,17743,32,Huntsville,TX,0.0042,0.1663,1,1
+3623,St. Mary's University,0.2713,0.9776,465,435,47999,,21145,1951,11,San Antonio,TX,0.0149,0.2488,1,1
+3616,Nelson University,,0.8902,460,430,34504,,21662,1479,21,Waxahachie,TX,,0.1624,,2
+3620,Southwestern University,0.2094,0.4305,580,550,67493,,29224,1440,13,Georgetown,TX,0.0261,0.219,1,1
+3624,Stephen F Austin State University,0.6817,0.9399,500,470,25791,14260,,8728,33,cogdoches,TX,0.0041,0.1921,1,2
+3659,The University of Texas Health Science Center at San Antonio,0.7533,,,,,,,930,11,San Antonio,TX,,,,
+4952,The University of Texas Medical Branch at Galveston,0.4239,,,,,,,545,13,Galveston,TX,,,,
+3639,Texas A&M University-Kingsville,0.2896,0.9092,510,480,24060,12090,,4748,32,Kingsville,TX,0.0044,0.0833,1,1
+3661,The University of Texas at El Paso,0.2,0.9992,450,410,19836,9403,,21005,11,El Paso,TX,0.0057,0.135,1,2
+3638,Texas College,0.4413,,,,20339,,10958,614,12,Tyler,TX,,0.2321,1,1
+9768,University of North Texas Health Science Center,,,,,,,,41,11,Fort Worth,TX,,,,
+9930,The University of Texas Permian Basin,,0.9489,470,440,23886,12723,,3911,12,Odessa,TX,0.0031,0.1958,1,1
+3647,Trinity University,0.3154,0.2592,680,660,68224,,23464,2505,11,San Antonio,TX,0.0442,0.2636,1,1
+4951,The University of Texas Health Science Center at Houston,0.1613,,,,,,,465,11,Houston,TX,,,,
+10674,Texas Tech University Health Sciences Center,0.3969,,,,,,,1482,11,Lubbock,TX,,,,
+3665,West Texas A & M University,0.2134,0.9868,480,470,23482,19487,,6917,31,Canyon,TX,0.0037,0.2017,1,1
+3669,Wiley University,,,,,19097,,7092,712,32,Marshall,TX,,0.3205,1,2
+1606,Brigham Young University-Hawaii,0.8333,0.4696,480,480,25098,,16774,2889,31,Laie,HI,0.0113,0.2576,1,1
+21785,Eagle Gate College-Murray,0.7046,,,,33765,,27345,351,13,Murray,UT,,,,
+3681,Westminster University,,0.6657,540,530,57616,,27094,823,12,Salt Lake City,UT,0.0082,0.1592,1,1
+3682,Bennington College,0.5378,0.4453,703,588,87284,,30947,780,32,Bennington,VT,0.0078,,1,1
+3692,Norwich University,0.7169,0.7444,540,520,67357,,22257,2428,42,Northfield,VT,0.0071,0.1029,1,1
+3694,Saint Michael's College,0.6698,0.8451,570,550,69079,,25239,1092,22,Colchester,VT,0.0168,0.2391,1,1
+21435,Sterling College,,0.6667,,,54410,,21854,50,43,Craftsbury Common,VT,,,,
+3698,Vermont State University,,0.8167,,,25988,18212,,3590,43,Randolph,VT,0.0117,0.1018,1,2
+3702,Averett University,0.5266,0.5659,448,478,53460,,22925,1231,32,Danville,VA,0.007,0.1754,1,2
+3703,Bluefield University,0.7147,0.5931,,,42539,,25573,614,32,Bluefield,VA,0.0102,0.102,1,1
+30913,Regent University,,0.3812,530,460,32838,,19923,4729,11,Virginia Beach,VA,0.0027,0.2025,1,2
+3708,Eastern Mennonite University,0.7124,1,,,56756,,24588,754,13,Harrisonburg,VA,0.019,0.2476,1,1
+3749,George Mason University,,0.8748,580,580,28604,17915,,27752,21,Fairfax,VA,0.0072,0.1954,1,2
+3721,James Madison University,0.507,0.7152,600,570,31735,23322,,20888,13,Harrisonburg,VA,0.0066,0.1385,1,1
+3719,Longwood University,,0.9022,530,500,34588,19066,,3015,32,Farmville,VA,0.0047,0.1534,1,1
+3724,Marymount University,0.722,0.9316,,,57184,,29137,1810,12,Arlington,VA,0.0023,0.1347,1,1
+31065,Sentara College of Health Sciences,,,,,,,,242,11,Chesapeake,VA,,,,
+3728,Old Dominion University,,0.9036,570,530,29446,14638,,17514,12,Norfolk,VA,0.0039,0.1545,1,2
+3732,Radford University,,0.8953,490,450,28405,14578,,6038,31,Radford,VA,0.0059,0.1227,1,1
+10043,Bon Secours Memorial College of Nursing,0.5091,,,,,,,591,21,Richmond,VA,,,,
+42740,Southeastern Free Will Baptist Bible College,0.4059,,,,21203,,12602,64,41,Wendell,NC,,,,1
+1459,Strayer University-Virginia,,,,,25158,,19578,1668,12,Arlington,VA,,0.7113,,2
+3753,Virginia Military Institute,0.4312,0.7125,550,500,34824,17113,,1527,32,Lexington,VA,0.0462,,1,
+3766,Virginia Union University,,0.9799,450,400,29075,,13235,1203,12,Richmond,VA,,0.2083,1,1
+3767,Virginia Wesleyan University,,0.7287,,,51255,,19676,1256,11,Virginia Beach,VA,0.0332,0.1909,1,1
+13022,City University of Seattle,,,,,,,,1137,11,Seattle,WA,,0.4643,,2
+12315,Cornish College of the Arts,0.6636,0.6221,,,60273,,40062,488,11,Seattle,WA,,,,
+3778,Gonzaga University,0.8317,0.8169,600,590,73178,,35119,5198,12,Spokane,WA,0.0194,0.2716,1,1
+3777,Heritage University,0.8964,,,,31209,,14598,812,41,Toppenish,WA,0.0095,0.0952,1,1
+22425,Bastyr University,0.6091,,,,,,,39,21,Kenmore,WA,,,,
+3797,University of Puget Sound,,0.7225,610,560,78378,,38394,1594,12,Tacoma,WA,0.0175,0.1525,1,1
+3788,Seattle Pacific University,0.3673,0.834,,,56826,,24488,1762,11,Seattle,WA,0.0097,0.126,1,1
+3804,Whitworth University,,0.8978,550,540,68516,,26534,1858,21,Spokane,WA,0.0181,0.127,1,1
+3809,Bluefield State University,,0.9723,440,430,21839,13684,,1042,32,Bluefield,WV,,0.0504,,1
+3818,University of Charleston,0.7165,0.6152,,,46470,,22107,2259,13,Charleston,WV,,0.5603,,2
+3811,Davis & Elkins College,,0.9433,,,44888,,18273,661,33,Elkins,WV,,0.1417,1,1
+3812,Fairmont State University,0.6017,0.9862,450,360,20018,9032,,2590,32,Fairmont,WV,0.0028,0.1054,1,1
+3815,Marshall University,0.7171,0.9573,480,430,22022,7502,,7266,13,Huntington,WV,0.002,0.1567,1,2
+3820,Salem University,,,,,18650,,12303,892,42,Salem,WV,,0.5154,,2
+3822,Shepherd University,,0.9678,468,410,19601,11363,,2344,41,Shepherdstown,WV,0.0147,0.1602,1,1
+3827,West Virginia University Institute of Technology,0.4363,0.3668,460,420,18907,9337,,981,13,Beckley,WV,0.0064,0.1859,1,1
+3827,West Virginia University,0.3929,0.89,520,490,26415,15634,,17385,13,Morgantown,WV,0.004,0.1748,1,1
+6639,Bellin College,0.3152,0.9718,,,42941,,37408,372,22,Green Bay,WI,,,,
+3835,Beloit College,0.2612,0.6304,590,610,71365,,21526,926,13,Beloit,WI,0.0179,0.0536,1,1
+3838,Carroll University,0.3381,0.6684,510,530,52639,,15193,2523,13,Waukesha,WI,0.0104,0.1226,1,1
+3839,Carthage College,0.3862,0.8706,,,50822,,26565,2660,13,Kenosha,WI,0.0267,0.2366,1,1
+3848,Edgewood College,0.2615,0.7573,,,50903,,26113,1107,11,Madison,WI,,0.1378,1,1
+3854,Lakeland University,0.1975,0.8628,,,48840,,24212,1212,41,Plymouth,WI,0.0029,0.4841,2,2
+3856,Lawrence University,0.1627,0.6394,610,590,69849,,23401,1396,13,Appleton,WI,0.022,0.0137,1,1
+23172,Maratha Baptist University,0.1,0.719,485,455,37092,,26005,541,31,Watertown,WI,0.0061,0.1455,1,2
+3861,Marian University,,0.7498,,,44450,,21937,1010,13,Fond Du Lac,WI,0.0109,0.1964,1,2
+20771,Milwaukee Institute of Art & Design,,0.6054,,,53528,,26541,837,11,Milwaukee,WI,,,,
+3868,Milwaukee School of Engineering,0.6852,0.5893,,,62648,,22453,2654,11,Milwaukee,WI,,0.0884,,1
+3884,Ripon College,0.397,0.7984,510,470,63540,,20216,688,32,Ripon,WI,0.0231,0.1615,1,1
+3892,Saint Norbert College,0.855,0.8574,525,508,59422,,26172,1662,22,De Pere,WI,0.0051,0.2959,1,1
+3911,Viterbo University,,0.7243,,,45558,,21260,1249,13,La Crosse,WI,0.0051,0.141,1,2
+3917,University of Wisconsin-Eau Claire,,0.8234,,,21705,16550,,8895,13,Eau Claire,WI,0.0092,0.2372,1,1
+3899,University of Wisconsin-Green Bay,,0.8859,,,19366,13369,,6341,12,Green Bay,WI,0.0039,0.188,1,1
+3919,University of Wisconsin-La Crosse,0.5763,0.755,,,19593,16210,,9277,13,La Crosse,WI,0.0124,0.2661,1,1
+21366,Wisconsin Lutheran College,0.6569,0.7816,530,440,48785,,23245,943,11,Milwaukee,WI,0.0043,0.2217,1,2
+3920,University of Wisconsin-Oshkosh,,0.865,,,19652,14305,,6877,13,Oshkosh,WI,0.0101,0.1797,1,2
+5015,University of Wisconsin-Parkside,0.5714,0.7539,,,18199,11772,,2844,41,Kenosha,WI,0.0066,0.2106,1,1
+3915,University of Wisconsin-Stout,0.7884,0.8767,,,22797,17490,,5842,32,Menomonie,WI,0.0132,0.2246,1,2
+3925,University of Wisconsin-Superior,0.6859,0.9301,,,19860,12220,,1807,22,Superior,WI,0.0066,0.1211,1,1
+3896,University of Wisconsin-Milwaukee,,0.9068,,,22756,15014,,16758,11,Milwaukee,WI,0.0046,0.1984,1,1
+3921,University of Wisconsin-Platteville,,0.8938,,,21266,16032,,5837,32,Platteville,WI,0.0039,0.1576,1,1
+3923,University of Wisconsin-River Falls,0.7979,0.8172,,,19781,14054,,4205,32,River Falls,WI,0.0108,0.1385,1,1
+3924,University of Wisconsin-Stevens Point,0.6736,0.918,,,20079,14559,,7306,32,Stevens Point,WI,0.0124,0.1125,1,1
+3932,University of Wyoming,0.8174,0.9688,,,24818,13599,,7944,33,Laramie,WY,0.009,0.1688,1,1
+3935,University of Guam,0.5,,,,14961,8598,,2515,22,Mangilao,GU,0.0189,0.2123,1,1
+5019,Universidad Adventista de las Antillas,,1,,,16834,,9919,830,23,Mayaguez,PR,,0.0851,,1
+25054,Atlantic University,,,,,12986,,6425,1451,13,Guaybo,PR,,,,
+5022,Universidad Central de Bayamon,,0.6594,,,12976,,4827,539,12,BayamÃ³n,PR,,0.2636,,1
+10724,Albizu University-San Juan,0.7328,1,,,18382,,9732,728,11,San Juan,PR,,,,
+12525,Caribbean University-Caroli,,,,,10710,,5791,99,21,Caroli,PR,,0.125,,1
+3936,Pontifical Catholic University of Puerto Rico-Arecibo,,0.9378,,,18678,,11117,273,23,Arecibo,PR,,0.0702,,1
+3936,Pontifical Catholic University of Puerto Rico-Ponce,0.9186,0.9808,595,600,20508,,13192,3874,12,Ponce,PR,,0.1243,1,1
+23355,Universidad Teologica del Caribe,0.6952,,,,11510,,9045,173,21,Trujillo Alto,PR,,,,
+10567,Colegio Universitario de San Juan,0.6554,0.7538,,,6024,-778,,491,11,San Juan,PR,,0.125,,1
+25875,Universidad A G. Mendez-Cupey Campus,,,,,14214,,7646,4540,11,San Juan,PR,,0.2205,,1
+10819,Puerto Rico Conservatory of Music,0.7051,0.7835,,,12920,7260,,307,11,San Juan,PR,,,,
+25694,Escuela de Artes Plasticas y Diseno de Puerto Rico,,1,,,9057,5669,,466,11,San Juan,PR,,,,
+42542,Inter American University of Puerto Rico-San German,,0.4248,,,16380,,9148,2569,23,San German,PR,0.0018,0.1362,1,1
+3939,Inter American University of Puerto Rico-Aguadilla,0.9569,0.4176,,,16057,,8742,2906,22,Aguadilla,PR,,0.1184,,1
+5026,Inter American University of Puerto Rico-Arecibo,0.7975,0.382,,,16625,,9217,2220,13,Arecibo,PR,,0.1345,,1
+5027,Inter American University of Puerto Rico-Barranquitas,0.5541,0.8595,,,16051,,8726,937,21,Barranquitas,PR,,0.1556,,1
+3940,Inter American University of Puerto Rico-Metro,0.5954,0.6972,,,16837,,9788,2607,11,San Juan,PR,,0.1823,1,1
+5029,Inter American University of Puerto Rico-Ponce,,0.3373,,,16065,,9026,2404,41,Mercedita,PR,,0.2253,,1
+22828,Inter American University of Puerto Rico-Fajardo,0.8582,0.2654,,,16190,,9230,1072,23,Fajardo,PR,,0.0929,,1
+5028,Inter American University of Puerto Rico-Bayamon,,0.3962,,,16324,,9284,3476,12,Bayamon,PR,,0.1216,,1
+12123,University of Puerto Rico-Aguadilla,,0.814,393,398,14498,7765,,1883,22,Aguadilla,PR,,0.3361,,1
+7228,University of Puerto Rico-Arecibo,0.1331,0.5918,,,17710,10680,,2669,13,Arecibo,PR,,0.1646,,1
+10975,University of Puerto Rico-Bayamon,0.6568,0.3533,,,12501,8484,,2851,12,Bayamon,PR,,0.3618,,1
+30160,University of Puerto Rico-Caroli,0.4724,0.5454,411,398,19396,12945,,2404,21,Caroli,PR,,0.2706,,1
+7206,University of Puerto Rico at Cayey,,0.53,421,422,15909,10176,,2069,21,Cayey,PR,0.0142,0.2295,1,1
+3943,University of Puerto Rico-Humacao,0.2426,0.548,,,19547,12675,,2529,21,Humacao,PR,0.005,0.2095,1,1
+3944,University of Puerto Rico-Mayaguez,0.5236,0.5652,,,21637,17936,,9539,13,Mayaguez,PR,0.002,0.0815,1,1
+24600,University of Puerto Rico-Medical Sciences,,,,,,,,233,11,San Juan,PR,,,,
+9652,University of Puerto Rico at Ponce,0.6583,0.5245,,,17193,10990,,2278,12,Ponce,PR,,0.2403,,1
+7108,University of Puerto Rico-Rio Piedras,,0.5459,,,15118,9175,,8572,11,San Juan,PR,0.0016,0.2213,1,1
+3941,Universidad A G. Mendez-Caroli Campus,0.75,,,,14113,,7761,4468,21,Caroli,PR,,0.1794,,1
+3937,Universidad del Sagrado Corazon,0.516,0.5802,,,19728,,12924,4442,11,Santurce,PR,,0.1402,1,1
+21000,Universidad Politecnica de Puerto Rico,0.3953,,,,23368,,17540,3594,11,Hato Rey,PR,,0.067,,1
+3936,Pontifical Catholic University of Puerto Rico-Mayaguez,0.4679,0.9917,,,18605,,11502,555,13,Mayaguez,PR,,0.2241,,1
+11719,Universidad A G. Mendez-Gurabo Campus,0.3688,,,,14224,,7051,7868,21,Gurabo,PR,,0.1282,,1
+23053,Parker University,0.4518,,,,42167,,29135,607,11,Dallas,TX,,0.0044,,2
+2093,St. John's College,,0.5315,680,610,55824,,26674,368,41,Santa Fe,NM,,,,
+26229,Bais Medrash Elyon,,0.375,,,19500,,8447,61,21,Monsey,NY,,,,
+3010,Antioch University-Los Angeles,0.1735,,,,,,,60,21,Culver City,CA,,,,
+3010,Antioch University-Santa Barbara,0.4514,,,,,,,55,13,Santa Barbara,CA,,0.2069,,1
+3010,Antioch University,,,,,,,,77,41,Yellow Springs,OH,,0.119,,1
+6942,Mid-America Christian University,0.5146,0.9176,,,31313,,16692,1666,11,Oklahoma City,OK,0.0066,0.299,1,2
+25326,Landmark College,,0.4944,,,83124,,56954,455,42,Putney,VT,,0.069,,
+23638,Yeshiva Gedolah of Greater Detroit,0.7297,0.9,,,19682,,11746,75,21,Oak Park,MI,,,,
+13039,South University-Columbia,,,,,35322,,27693,450,21,Columbia,SC,,0.087,,2
+41618,University of Massachusetts Global,,,,,35325,32654,,4491,21,Aliso Viejo,CA,,0.3157,,2
+32563,Yeshivah Gedolah Rabbinical College,0.12,,,,19300,,12587,60,13,Miami Beach,FL,,,,
+12525,Caribbean University-Ponce,,,,,10000,,4964,414,12,Ponce,PR,,0.0727,,1
+12525,Caribbean University-Vega Baja,0.2993,,,,9936,,5235,152,21,Vega Baja,PR,,0.2424,,1
+25590,University of Advancing Technology,0.5342,0.9806,,,32794,,28522,855,12,Tempe,AZ,,0.0514,,2
+30113,California State University-San Marcos,,0.951,,,21649,10229,,14877,21,San Marcos,CA,0.0079,0.1623,1,1
+25782,Nossi College of Art and Design,0.5254,0.4631,,,27710,,24044,247,11,shville,TN,,,,
+30001,Yeshiva Gedolah Imrei Yosef D'spinka,0.5701,,,,15989,,5646,226,11,Brooklyn,NY,,,,
+26021,Northwest College of Art & Design,0.6456,0.6598,,,30038,,16418,139,12,Tacoma,WA,,,,
+23608,Provo College,0.5136,,,,30099,,27053,669,12,Provo,UT,,,,
+33733,Beacon College,0.2827,0.4347,,,70775,,53517,506,22,Leesburg,FL,,0.2833,,1
+32183,University of the Potomac-Washington DC Campus,0.3011,,,,,,,809,11,Washington,DC,,0.4634,,2
+30775,Rabbi Jacob Joseph School,0.4318,0.9167,,,22600,,8389,115,21,Edison,NJ,,,,
+31085,Everglades University,,0.8145,,,38913,,27371,2789,13,Boca Raton,FL,,0.3917,,2
+34224,College of Biblical Studies-Houston,0.8427,,,,11523,,672,419,11,Houston,TX,,0.0923,,2
+38683,World Mission University,0.8391,,,,22505,,15785,207,11,Los Angeles,CA,,,,
+23141,Schiller Intertiol University,0.8551,,,,,,,43,11,Tampa,FL,,1,,2
+31292,Rabbinical College of Ohr Shimon Yisroel,0.3154,,,,41283,,32594,232,11,Brooklyn,NY,,,,
+42513,Pacific Bible College,,1,,,28080,,24383,22,13,Medford,OR,,,,
+32603,California State University-Monterey Bay,0.6523,0.974,,,26987,13663,,6819,22,Seaside,CA,0.0135,0.1232,1,1
+32673,Capella University,0.7859,,,,22820,,17956,18364,11,Minneapolis,MN,,0.0829,,2
+1839,Trine University-Regiol/Non-Traditiol Campuses,,0.3986,,,26786,,15788,607,32,Angola,IN,,0.6694,,2
+25554,The University of Texas MD Anderson Cancer Center,0.6784,,,,,,,334,11,Houston,TX,,,,
+30926,Messenger College,,0.375,,,29881,,26433,24,21,Bedford,TX,,,,
+25994,New York College of Health Professions,0.7048,,,,,,,58,21,Syosset,NY,,,,
+20988,University of Phoenix-Hawaii,0.5643,,,,,,,,21,Kapolei,HI,,0.7692,,1
+31473,Yeshiva D'monsey Rabbinical College,0.3662,0.3684,,,20600,,8289,84,21,Monsey,NY,,,,
+31150,Arizo College of Nursing-Tempe,0.7078,1,,,38153,,31681,1202,12,Tempe,AZ,,,,
+31226,Eastern Intertiol College-Jersey City,0.3688,0.6963,,,26182,,21111,495,11,Jersey City,NJ,,,,
+1479,Embry-Riddle Aeroutical University-Worldwide,0.3204,0.5791,520,520,24878,,18725,9139,13,Dayto Beach,FL,,0.1986,,2
+1937,Ottawa University-Milwaukee,0.8052,,,,,,,41,21,Brookfield,WI,,0.1579,2,2
+1459,Strayer University-Maryland,0.7105,,,,,,,1043,21,Suitland,MD,,0.7543,,2
+31773,San Juan Bautista School of Medicine,0.4555,1,,,12341,,4946,94,13,Caguas,PR,,,,
+32253,American University of Health Sciences,0.3296,0.5,,,,,,351,21,Sigl Hill,CA,,,,
+33394,Western Governors University,0.2333,,,,16728,,12548,155088,21,Salt Lake City,UT,,0.247,,2
+9989,California Aeroutical University,,,,,46233,,36126,347,21,Bakersfield,CA,,,,
+39373,Yeshiva College of the tions Capital,,,,,25800,,9850,56,21,Silver  Spring,MD,,,,
+8067,Louisia State University Health Sciences Center-Shreveport,,,,,,,,21,12,Shreveport,LA,,,,
+40373,Los Angeles Film School,0.6711,,,,,,30980,5472,11,Hollywood,CA,,,,
+33473,Intertiol Baptist College and Semiry,,,,,29112,,14660,43,11,Chandler,AZ,,0.0909,,1
+41103,University of Magement and Technology,,,,,,,,294,12,Arlington,VA,,0.7577,,2
+21136,American InterContinental University-Atlanta,0.404,,,,23743,,16482,734,12,Atlanta,GA,,0.6053,,2
+34296,Atlantic Institute of Oriental Medicine,0.3744,,,,,,,,12,Fort Lauderdale,FL,,,,
+35163,The King's University,,0.6064,,,18075,,14140,251,21,Southlake,TX,,,,
+34383,Pacific Islands University,,1,,,13032,,9334,61,22,Mangilao,GU,,,,
+36663,Pillar College,,,,,38047,,8470,498,11,Newark,NJ,,0.0441,,1
+2025,Southern University Law Center,,,,,,,,607,12,Baton Rouge,LA,0.0026,0.1429,1,1
+35313,Universidad Pentecostal Mizpa,0.3727,,,,12652,,6440,137,11,Rio Piedras,PR,,,,
+41143,Nevada State University,0.3426,0.8682,,,23718,14068,,3762,41,Henderson,NV,0.0025,0.0653,1,1
+39803,California State University-Channel Islands,0.5207,0.9481,,,23561,9849,,5013,41,Camarillo,CA,0.0168,0.1624,1,1
+41223,University of Arkansas Grantham,,,,,15318,8370,,2833,12,LIttle Rock,AR,,0.3136,,2
+32183,University of the Potomac-VA Campus,,,,,,,,157,21,FALLS CHURCH,VA,,1,,2
+36894,Faith Intertiol University,,,,,31368,,22662,276,12,Tacoma,WA,,0.5254,,2
+36983,West Coast University-Los Angeles,,,,,55938,,53020,2673,11,North Hollywood,CA,,,,
+35135,Williamson Christian College,,,,,,,,41,13,Franklin,TN,,0.7143,,2
+31121,Dewey University-Hato Rey,,,,,11993,,3577,244,11,Hato Rey,PR,,0.0968,,1
+1459,Strayer University-Tennessee,,,,,25158,,11645,1784,11,Memphis,TN,,0.7895,,2
+1459,Strayer University-Pennsylvania,,,,,,,,1226,21,Trevose,PA,,0.8066,,2
+22188,Brookline College-Albuquerque,,,,,,,37459,542,11,Albuquerque,NM,,,,
+38133,Northcentral University,,,,,,,,60,11,San Diego,CA,,0.3571,,2
+37333,Baptist University of the Americas,,,,,13755,,10964,99,11,San Antonio,TX,,0.0556,,1
+37133,Beis Medrash Heichal Dovid,0.6345,0.7895,,,20540,,10909,206,11,Far Rockaway,NY,,,,
+38273,Charlotte Christian College and Theological Semiry,,,,,,,,24,11,Charlotte,NC,,,,
+38383,Nightingale College,,,,,,,30852,5986,12,Salt Lake City,UT,,,,
+21136,American InterContinental University System,,,,,22256,,15172,7111,11,Chandler,AZ,,0.645,,2
+21136,American InterContinental University-Houston,0.5,,,,26087,,20249,94,11,Houston,TX,,0.5263,,1
+2453,Central Methodist University-College of Graduate and Extended Studies,,0.8753,,,22310,,14601,2092,42,Fayette,MO,0.006,0.1996,1,1
+10098,Neumont College of Computer Science,,0.8678,410,460,45890,,35205,453,12,Salt Lake City,UT,,,,
+40653,Roseman University of Health Sciences,,,,,,,,536,11,Henderson,NV,,,,
+38684,Los Angeles College of Music,,0.8771,,,49705,,43590,227,12,Pasade,CA,,,,
+38023,Uta Mesivta of Kiryas Joel,,,,,21682,,4156,2957,13,Monroe,NY,,,,
+39483,Harrisburg University of Science and Technology,,0.8735,,,35893,,15376,615,13,Harrisburg,PA,0.02,0.07,1,1
+21785,Eagle Gate College-Layton,,,,,,,25873,226,21,Layton,UT,,,,
+41429,Georgia Gwinnett College,0.8958,0.955,,,22547,15844,,11344,21,Lawrenceville,GA,0.005,0.2393,1,1
+37524,SUM Bible College and Theological Semiry,,0.4068,,,24956,,21680,198,21,El Dorado Hills,CA,,,,
+34633,Careers Unlimited,,,,,,,,118,13,Orem,UT,,,,
+1459,Strayer University-Florida,,,,,25158,,16064,1107,21,Tampa,FL,,0.7817,,2
+38193,American Public University System,,,,,18768,,9597,40074,31,Charles Town,WV,0.0034,0.3048,2,2
+40764,Gnomon,,0.4182,,,54947,,51949,294,11,North Hollywood,CA,,,,
+40813,Bais Medrash Toras Chesed,,0.5765,,,14000,,6838,132,13,Lakewood,NJ,,,,
+36963,University of the West,0.1806,1,,,21278,,6845,32,21,Rosemead,CA,,0.6154,,1
+41513,American College of Education,0.5135,,,,,,,359,11,Indiapolis,IN,,0.2037,,2
+13039,South University-Tampa,,,,,30414,,20434,388,11,Tampa,FL,,0.0148,,2
+1459,Strayer University-Delaware,,,,,25158,,22593,161,13,Wilmington,DE,,0.766,,2
+1459,Strayer University-Alabama,,,,,,,,1196,12,Birmingham,AL,,0.7907,,2
+41215,Columbia Southern University,,,,,18226,,14580,12176,31,Orange Beach,AL,,0.2205,,2
+41284,Miami Regiol University,,,,,,,22113,312,21,Miami Springs,FL,,,,
+41234,Yeshivas Be'er Yitzchok,0.4673,0.8621,,,36850,,28599,90,21,Elizabeth,NJ,,,,
+41311,Yeshiva Toras Chaim,,0.4425,,,23250,,5356,227,21,Lakewood,NJ,,,,
+41155,Talmudical Semiry of Bobov,,0.9787,,,19000,,2840,602,11,Brooklyn,NY,,,,
+39513,Patrick Henry College,0.3333,0.7744,660,580,,,,395,31,Purcellville,VA,,0.197,,1
+1459,Strayer University-North Caroli,0.8088,,,,,,,2671,11,Greensboro,NC,,0.8329,,2
+1459,Strayer University-New Jersey,,,,,,,,702,21,Piscataway,NJ,,0.76,,2
+6385,Chamberlain University-Illinois,,0.8264,,,40826,,31837,14027,21,Addison,IL,,,,
+6385,Chamberlain University-Ohio,,0.875,,,42634,,31544,257,11,Columbus,OH,,,,
+6385,Chamberlain University-Arizo,,0.9091,,,45594,,40096,693,11,Phoenix,AZ,,,,
+1937,Ottawa University-Online,,,,,,,,259,12,Overland Park,KS,0.0075,0.1716,2,2
+41004,Taft University System,,,,,,,,,11,Denver,CO,,1,,2
+40803,Aspen University,,,,,,,,1466,11,Phoenix,AZ,,0.0398,,2
+41483,Denver College of Nursing,,,,,,,,757,11,Denver,CO,,,,
+41381,Yeshiva of Machzikai Hadas,,0.7006,,,35348,,22870,515,11,Brooklyn,NY,,,,
+21553,The Chicago School at Los Angeles,,0.4634,,,,,,337,11,Los Angeles,CA,,,,
+41539,Providence Christian College,,1,,,53447,,25163,168,12,Pasade,CA,,,,
+21000,Polytechnic University of Puerto Rico-Miami,,,,,,,,19,13,Miami,FL,,0.625,,2
+21000,Polytechnic University of Puerto Rico-Orlando,0.5,,,,23011,,16577,96,21,Orlando,FL,,0.2941,,2
+1459,Strayer University-West Virginia,,,,,,,,234,22,Scott Depot,WV,,0.5714,,2
+6385,Chamberlain University-Florida,,0.9091,,,37182,,31269,821,11,Jacksonville,FL,,,,
+41563,University of Fort Lauderdale,,,,,24410,,19965,314,21,Lauderhill,FL,,1,,2
+36983,West Coast University-Orange County,,,,,34887,,32879,3192,11,Aheim,CA,,0.005,,2
+36983,West Coast University-Ontario,,,,,53706,,49590,2671,12,Ontario,CA,,,,
+1459,Strayer University-Arkansas,0.375,,,,,,,695,12,Little Rock,AR,,0.8636,,2
+1459,Strayer University-Georgia,,,,,25158,,18318,4299,21,Chamblee,GA,,0.794,,2
+1459,Strayer University-Mississippi,,,,,,,,882,12,Jackson,MS,,0.8701,,2
+1459,Strayer University-South Caroli,,,,,25158,,17979,1868,13,Greenville,SC,,0.787,,2
+1459,Strayer University-Texas,,,,,,,,2293,21,Farmers Branch,TX,,0.7759,,2
+13039,South University-Richmond,,,,,36577,,30442,232,21,Glen Allen,VA,,0.0566,,2
+13039,South University-Virginia Beach,,,,,36577,,27843,240,11,Virginia Beach,VA,,0.0317,,2
+41425,Touro University Worldwide,,,,,29016,,19058,454,21,Los Alamitos,CA,,0.3652,,2
+41426,Touro University Nevada,,,,,,,,22,11,Henderson,NV,,,,
+9621,Herzing University-Kenosha,1,0.92,,,28414,,23066,522,13,Kenosha,WI,,0.0246,,1
+9621,Herzing University-Brookfield,0.4618,0.9306,,,27844,,20514,380,21,Brookfield,WI,,0.0132,,1
+42485,Texas A&M University-San Antonio,0.3019,0.928,430,410,21655,11196,,6599,11,San Antonio,TX,0.0088,0.2674,1,1
+1459,Strayer University-Global Region,,,,,25158,,17833,9376,11,Washington,DC,,0.7945,,2
+3404,Johnson & Wales University-Online,,0.9097,,,26864,,20252,2202,12,Providence,RI,,0.5785,,2
+6385,Chamberlain University-Virginia,0.6162,0.9,,,45594,,33199,557,21,Vien,VA,,,,
+41574,Crestpoint University,,,,,19927,,15670,385,11,Phoenix,AZ,,0.0845,,2
+41542,Caroli College of Biblical Studies,,,,,24267,,21322,159,12,Fayetteville,NC,,,,
+41737,Man University,,0.5269,,,17783,,15210,183,12,Fayetteville,NC,,0.1212,,2
+41780,Simmons College of Kentucky,,1,,,26596,,18434,481,11,Louisville,KY,,0.2857,1,1
+41795,North American University,,,,,27981,,18721,609,21,Stafford,TX,,0.2414,,1
+41803,Keser Torah-Mayan Hatalmud,,1,,,18900,,11055,57,21,Lakewood,NJ,,,,
+41825,Millennia Atlantic University,,,,,30138,,26879,184,13,Doral,FL,,1,,1
+1417,University of Connecticut-Hartford Campus,,0.8833,470,460,26946,16403,,1525,12,Hartford,CT,0.0319,0.1269,1,1
+1937,Ottawa University-Surprise,,0.7815,440,400,52170,,33393,836,21,Surprise,AZ,0.0153,0.2519,1,1
+6385,Chamberlain University-Missouri,,1,,,38999,,30716,284,21,St. Louis,MO,,,,
+6385,Chamberlain University-Texas,,0.8387,,,38480,,32209,2270,11,Houston,TX,,,,
+42788,Los Angeles Pacific University,0.5132,,,,29884,,22677,1483,21,San Dimas,CA,,0.1661,,2
+13039,South University-Savanh Online,,,,,34298,,28049,6433,12,Savanh,GA,,0.1628,,2
+3804,Whitworth University-Adult Degree Programs,,0.2857,,,,,,145,21,Spokane,WA,,0.3793,,1
+2211,Springfield College-Regiol Online and Continuing Education,,,,,,,,176,12,Springfield,MA,,0.0125,,1
+41242,Catholic Intertiol University,0.4304,,,,21546,,14176,116,31,Charles Town,WV,,,,
+41218,Criswell College,,1,,,27748,,21630,132,11,Dallas,TX,,,,
+6385,Chamberlain University-Georgia,,0.9143,,,38272,,33188,1940,12,Sandy Springs,GA,,,,
+6385,Chamberlain University-India,,1,,,28094,,16149,144,11,Indiapolis,IN,,,,
+41884,Bais HaMedrash and Mesivta of Baltimore,0.6667,1,,,24300,,11361,87,21,Baltimore,MD,,,,
+41924,Yeshiva Gedolah Zichron Leyma,0.537,0.5667,,,19850,,10844,47,21,Union,NJ,,,,
+41928,Be'er Yaakov Talmudic Semiry,1,,,,19858,,4543,765,21,Spring Valley,NY,,,,
+42087,Colorado State University Global,,0.984,,,21201,16510,,6563,11,Denver,CO,,0.5513,,2
+36983,West Coast University-Texas,,,,,30119,,25992,1162,12,Richardson,TX,,0.01,,2
+13039,South University-Austin,,,,,33349,,25680,211,12,Round Rock,TX,,0.0882,,2
+3225,Warner Pacific University Professiol and Graduate Studies,,0.5935,,,,,,144,11,Portland,OR,,0.5686,,2
+1469,Florida Institute of Technology-Online,,0.4018,,,24762,,18405,475,13,Melbourne,FL,,0.3128,,2
+41897,California Miramar University,,0.1847,,,19067,,12480,135,11,San Diego,CA,,1,,2
+42183,Midwives College of Utah,,0.8571,,,45179,,37278,234,12,Salt Lake City,UT,,,,
+41578,Grace Mission University,,,,,,,,68,21,Fullerton,CA,,,,
+42102,Mid-South Christian College,0.5394,1,,,19201,,10172,19,11,Memphis,TN,,,,
+42154,Grace School of Theology,,,,,11881,,11881,229,12,Conroe,TX,,,,
+42159,Yeshiva Gedolah Kesser Torah,,0.5238,,,18900,,10157,84,21,Monsey,NY,,,,
+42161,Yeshiva Yesodei Hatorah,,0.8519,,,24600,,16637,75,21,Lakewood,NJ,,,,
+1579,Augusta University,,0.8641,500,470,23524,13787,,5613,12,Augusta,GA,0.0055,0.1149,1,1
+1581,Middle Georgia State University,,0.9968,490,460,19617,12361,,6574,12,Macon,GA,0.0041,0.1253,1,2
+38626,Veritas Baptist College,1,0.95,,,24494,,21957,111,31,Lawrenceburg,IN,,,,
+10727,DeVry College of New York,,1,,,25596,,12855,86,11,New York,NY,,0.6869,,2
+10727,DeVry University-Arizo,,,,,,,,6,11,Phoenix,AZ,,0.5333,,1
+10727,DeVry University-Florida,,,,,40132,,29477,109,11,Orlando,FL,,0.5657,,1
+10727,DeVry University-Georgia,,1,,,38315,,28229,516,21,Decatur,GA,,0.4563,,1
+10727,DeVry University-Nevada,,,,,,,,1,11,Henderson,NV,,0.5,,1
+10727,DeVry University-New Jersey,,1,,,42312,,26565,62,21,Iselin,NJ,,0.6364,,1
+10727,DeVry University-Ohio,,1,,,34318,,25001,210,11,Columbus,OH,,0.6944,,1
+10727,DeVry University-Texas,,,,,,,,8,11,Irving,TX,,0.4815,,1
+10727,DeVry University-Virginia,,,,,42312,,36609,13,12,Arlington,VA,,0.7,,1
+1585,University of North Georgia,,0.6794,500,480,18177,9823,,16146,32,Dahlonega,GA,0.0071,0.1625,1,1
+2199,Northeastern University Professiol Programs,,,,,,,,1802,11,Boston,MA,,0.2011,,1
+42634,Florida Polytechnic University,,0.5752,590,580,21817,11853,,1689,41,Lakeland,FL,0.0088,,1,1
+42443,Antioch College,,0.8913,,,49856,,14834,121,41,Yellow Springs,OH,,,,1
+42295,Texas A&M University-Central Texas,,1,,,14187,1300,,1750,41,Killeen,TX,0.0055,0.2691,1,2
+1081,Arizo State University Digital Immersion,,0.6669,,,,,,53782,12,Scottsdale,AZ,0.0001,0.1556,2,2
+42404,A G. Mendez University,0.7333,,,,27187,,19775,4763,11,Orlando,FL,,0.213,,2
+42190,Washington University of Science and Technology,1,0.0726,,,,,,400,12,Alexandria,VA,,0.3333,,2
+20988,University of Phoenix-Arizo,,,,,19909,,13520,85991,11,Phoenix,AZ,,0.5586,,2
+20988,University of Phoenix-California,,,,,,,,24,12,Ontario,CA,,0.798,,1
+20988,University of Phoenix-Texas,0.5667,,,,,,,5,11,Dallas,TX,,0.8333,,1
+,Minerva University,,0.0304,,,,,,637,11,San Francisco,CA,,0.2151,,1
+20523,University of West Los Angeles,,,,,,,,7,21,Inglewood,CA,,1,,1
+42301,Rabbinical College Ohr Yisroel,,,,,15850,,6223,114,11,Brooklyn,NY,,,,
+36983,West Coast University-Miami,,,,,36468,,32539,961,13,Doral,FL,,,,
+42434,Lionel University,,,,,31812,,29453,370,22,Carpinteria,CA,,,,
+42440,California Intercontinental University,,,,,,,,151,12,Sioux Falls,SD,,0.6,,2
+42830,American College of the Building Arts,0.1429,0.4444,560,570,38073,,30403,155,12,Charleston,SC,,,,
+42272,Bet Medrash Gadol Ateret Torah,,0.8889,,,22488,,10273,112,11,Brooklyn,NY,,,,
+42074,Yeshiva Ohr Yisrael,,0.5,,,,,,23,11,Brooklyn,NY,,,,
+42315,Yeshiva Sholom Shach,,1,,,21750,,12217,130,11,Brooklyn,NY,,,,
+,Bethlehem College & Semiry,0.5942,,,,,,,117,11,Minneapolis,MN,,,,
+42278,Bethany Global University,0.7386,0.9286,,,43216,,37790,81,13,Bloomington,MN,,,,
+42376,California Jazz Conservatory,0.5714,0.6667,,,,,,6,12,Berkeley,CA,,,,
+6385,Chamberlain University-Nevada,,0.7647,,,33051,,27073,652,11,Las Vegas,NV,,,,
+6385,Chamberlain University-Michigan,0.4286,0.8571,,,33910,,28045,629,13,Troy,MI,,,,
+6385,Chamberlain University-New Jersey,,1,,,38904,,37984,1226,21,North Brunswick,NJ,,,,
+6725,The University of Tennessee Health Science Center,,,,,,,,394,11,Memphis,TN,,,,
+31150,Arizo College of Nursing-Las Vegas,,1,,,35587,,30921,1222,21,Las Vegas,NV,,,,
+3783,Northwest University-Center for Online and Extended Education,,,,,40568,,35671,405,21,Kirkland,WA,,0.2061,,2
+39343,Yeshiva Zichron Aryeh,,0.25,,,,,,41,11,Far Rockaway,NY,,,,
+42432,Central Yeshiva Beth Joseph,,,,,,,,15,11,Brooklyn,NY,,,,
+42438,Abraham Lincoln University,,,,,34154,,28584,25,12,Glendale,CA,,0.0714,,2
+42515,Beth Medrash of Asbury Park,,0.5385,,,21110,,9766,124,21,Lakewood,NJ,,,,
+42580,Seattle Film Institute,,,,,55496,,41595,65,11,Seattle,WA,,,,
+1822,India Wesleyan University-tiol & Global,,,,,22228,,16898,6656,41,Marion,IN,,0.2962,,2
+42328,John Patrick University of Health and Applied Sciences,,0.8235,,,44115,,37711,480,12,South Bend,IN,,,,
+6385,Chamberlain University-North Caroli,,1,,,42634,,38436,202,11,Charlotte,NC,,,,
+6385,Chamberlain University-California,,0.8,,,37232,,36559,751,13,Rancho Cordova,CA,,,,
+2956,Caroli University,,0.3954,,,32680,,20828,460,11,Winston-Salem,NC,,0.3492,,2
+41228,Presbyterian Theological Semiry in America,,,,,,,,55,21,Santa Fe Springs,CA,,,,2
+42271,America Evangelical University,,,,,23764,,17854,73,13,Garde,CA,,,,2
+42483,Los Angeles Academy of Figurative Art,,,,,,,,2,11,Van Nuys,CA,,,,
+42496,Westcliff University,,0.7315,,,44210,,35426,2363,11,Irvine,CA,,0.9184,,2
+42567,Reformed University,,,,,,,,253,21,Lawrenceville,GA,,,,
+42590,Yeshiva Shaar Ephraim,,,,,22510,,10539,113,21,Monsey,NY,,,,
+42612,Yeshiva Bais Aharon,,0.8182,,,19522,,11757,25,13,Lakewood,NJ,,,,
+42615,Mechon L'hoyroa,,,,,,,,122,21,Monsey,NY,,,,
+1827,Purdue University Northwest,,0.7236,450,440,15571,6079,,5671,21,Hammond,IN,0.0033,0.1581,1,1
+42659,Yeshiva Kollel Tifereth Elizer,,0.7368,,,,,,499,11,Brooklyn,NY,,,,
+21553,The Chicago School at San Diego,,,,,,,,2,11,San Diego,CA,,,,
+3896,University of Wisconsin-Milwaukee Flex,0.1667,1,,,,,,543,11,Milwaukee,WI,,,,
+5015,University of Wisconsin-Parkside Flex,0.25,,,,,,,172,41,Kenosha,WI,,0.9375,,2
+42644,Yeshiva Gedolah Tiferes Boruch,,0.8929,,,17600,,9417,81,21,North Plainfield,NJ,,,,
+42652,Women's Institute of Torah Semiry and College,,0.9796,,,32300,,11673,118,11,Baltimore,MD,,,,
+42693,Yeshiva Gedolah of Cliffwood,,0.7,,,17850,,9641,30,21,Keyport,NJ,,,,
+42703,Yeshivas Emek Hatorah,,1,,,22250,,14504,90,41,Howell,NJ,,,,
+42761,Champion Christian College,,,,,20970,,17002,144,13,Hot Springs,AR,,,,
+42808,Texas Tech University Health Sciences Center-El Paso,,,,,,,,242,11,El Paso,TX,,,,
+6385,Chamberlain University-Louisia,,1,,,38480,,30791,622,21,Jefferson,LA,,,,
+2461,Drury University-College of Continuing Professiol Studies,,,,,19698,,10566,632,12,Springfield,MO,,0.2054,,2
+1805,India Institute of Technology-College of Professiol Studies,,,,,26033,,20473,2686,11,Fort Wayne,IN,,0.5871,,2
+42769,Congregation Talmidei Mesivta Tiferes Shmiel Aleksander,,,,,25625,,13075,168,11,Brooklyn,NY,,,,
+42836,College Unbound,,,,,27138,,21108,491,12,Providence,RI,,,,
+31150,Arizo College of Nursing-Dallas,0.1373,1,,,43045,,38488,588,11,Dallas,TX,,,,
+,Sattler College,,0.6905,590,550,,,,57,11,Boston,MA,,0.125,,1
+42794,Christ Mission College,,1,,,18421,,10679,32,21,San Antonio,TX,,,,
+42827,Urshan University,,0.8378,403,395,17175,,14779,472,21,Wentzville,MO,,0.1364,,2
+42876,Yeshiva Yesoda Hatorah Vetz Chaim,,,,,24473,,11549,223,11,Brooklyn,NY,,,,
+24824,Ponce Health Sciences University-East,,0.7982,,,28524,,14719,131,12,Ponce,PR,,,,
+42934,Oak Valley College,,,,,33587,,21379,75,21,Rialto,CA,,1,,1
+31150,Arizo College of Nursing-Tampa,1,1,,,41613,,36680,335,11,Tampa,FL,,,,
+31150,Arizo College of Nursing-Fort Lauderdale,,,,,,,,428,12,Fort Lauderdale,FL,,,,
+31150,Arizo College of Nursing-Tucson,,1,,,41932,,37136,562,11,Tucson,AZ,,,,
+31150,Arizo College of Nursing-Phoenix,,1,,,42097,,36660,1229,11,Phoenix,AZ,,,,
+42953,Pathways College,,,,,,,,196,11,Phoenix,AZ,,1,,2
+23608,Provo College-Idaho Falls Campus,0.4,,,,39585,,33576,257,13,Idaho Falls,ID,,,,
+21785,Eagle Gate College-Boise Campus,,,,,35847,,30241,594,12,Boise,ID,,,,
+42198,California Northstate University,,0.9247,,,,,,37,21,Elk Grove,CA,,,,
+42823,Antigua College Intertiol,0.3182,,,,29450,,29211,251,21,Miami Lakes,FL,,,,
+,NewU University,,,,,,,,34,11,Washington,DC,,,,1
+30265,Remington College-Online Dallas,,,,,29094,,24413,178,11,Dallas,TX,,0.5,,2
+3537,Abilene Christian University-Undergraduate Online,,1,,,30295,,23698,1219,21,Addison,TX,,0.1949,,2
+42975,Great Northern University,,1,,,28405,,21029,48,12,Spokane,WA,,,,1
+31150,Arizo College of Nursing-Salt Lake City,,1,,,41871,,37660,306,13,Murray,UT,,,,
+42995,Bridges Christian College,,,,,14180,,10273,163,11,New Orleans,LA,,,,
+42637,Reach University,,1,,,32536,,22423,1946,11,Oakland,CA,,,,
+2463,Evangel University-College of Online Learning,,0.4918,,,26454,,22503,240,12,Springfield,MO,,0.3158,,2
+31150,Arizo College of Nursing-Southfield,,1,,,42280,,38786,594,13,Southfield,MI,,,,
+31150,Arizo College of Nursing-Falls Church,,1,,,42280,,38690,348,21,Falls Church,VA,,,,
+31150,Arizo College of Nursing-Ontario,,1,,,52480,,44477,380,12,Ontario,CA,,,,
+3315,Commonwealth University of Pennsylvania,,0.9309,500,490,25161,15699,,9210,32,Bloomsburg,PA,0.0068,0.1886,1,1
+3316,Pennsylvania Western University,,0.9433,480,460,26916,18256,,7451,32,California,PA,0.0116,0.1092,1,2
+43112,Justice University,,,,,,,,116,11,Chandler,AZ,,1,,1
+43017,Yeshiva of Kasho,,,,,21356,,9200,185,11,Brooklyn,NY,,,,
+43063,Yeshivas Sanz Klauzenburg,,,,,22355,,10071,98,11,Brooklyn,NY,,,,
+,URBE University,,,,,,,,33,21,Sweetwater,FL,,0.875,,2
+31150,Arizo College of Nursing-Sarasota,,1,,,34305,,28945,133,21,University Park,FL,,,,
+31150,Arizo College of Nursing-Aurora,0.3077,1,,,43920,,37153,336,11,Aurora,CO,,,,
+31150,Arizo College of Nursing-Cincinti,0.6667,1,,,44576,,38808,77,21,Cincinti,OH,,,,
+31150,Arizo College of Nursing-Cleveland,0.2174,1,,,46107,,39762,164,21,Beachwood,OH,,,,
+41483,Denver College of Nursing-Houston,0.125,,,,,,,135,11,Houston,TX,,,,
+,Windsor University,,,,,,,,,11,Washington,DC,,,,
+31150,Arizo College of Nursing - Chesapeake,,1,,,42703,,33626,149,11,Chesapeake,VA,,,,
+31150,Arizo College of Nursing - Hartford,,1,,,48113,,43500,334,13,East Hartford,CT,,,,
+31150,Arizo College of Nursing-St Louis,,1,,,,,,131,21,Maryland Heights,MO,,,,
+,EDvance College,,1,,,,,,201,11,San Francisco,CA,,,,
